@@ -1,6 +1,7 @@
 package stepDefinitions;
 
 import io.restassured.RestAssured;
+import utilities.Logger;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -18,12 +19,14 @@ public class ProgramGETSD {
 public void user_sets_request_for_program_module_with_valid_base_url() {
     this.uri = Config.Getallprogram_URL;
     this.request = RestAssured.given().header("Content-type","application/json");
+    Logger.info("request for get all programs valid scenario");
 }
 
 @When("User sends GET request")
 public void user_sends_get_request() {
 	response = this.request.get(this.uri);	
 	response.then().log().all();
+	Logger.info("when get all programs");
 }
 
 @Then("Request should be successfull with status code {string} for GET All programs")
@@ -34,6 +37,7 @@ public void request_should_be_successfull_with_status_code_for_get_all_programs(
 			response.then().statusCode(Integer.parseInt(statuscode));
 			//Header Validation
 			response.then().assertThat().header("Connection", "keep-alive");
+			Logger.info("get all programs success");
 }
 
 }
