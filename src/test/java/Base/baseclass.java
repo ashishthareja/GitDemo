@@ -26,6 +26,16 @@ public class baseclass {
 
 	}
 
+	// Method to generate random string unto 3 digit for invalidID 
+	public static String randomestring2() {
+		System.out.println("GIT TEST Random 2");
+		logger.info("randomestring method");
+		String generateinvalidID = RandomStringUtils.randomNumeric(3);
+		System.out.println("GIT TEST2 Random 2");
+		return (generateinvalidID);
+
+	}
+	
 	public static String Timestamp() {
 		logger.info("Timestamp method");
 		SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss.SSSXXX");
