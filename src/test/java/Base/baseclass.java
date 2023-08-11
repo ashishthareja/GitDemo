@@ -21,6 +21,7 @@ public class baseclass {
 		logger.info("randomestring method");
 		String generateinvalidID = RandomStringUtils.randomNumeric(3);
 		return (generateinvalidID);
+		System.out.println("GIT TEST");
 	}
 
 	public static String Timestamp() {
