@@ -18,10 +18,12 @@ public class baseclass {
 
 	// Method to generate random string unto 3 digit for invalidID 
 	public static String randomestring() {
+		System.out.println("GIT TEST");
 		logger.info("randomestring method");
 		String generateinvalidID = RandomStringUtils.randomNumeric(3);
+		System.out.println("GIT TEST2");
 		return (generateinvalidID);
-		System.out.println("GIT TEST");
+
 	}
 
 	public static String Timestamp() {
