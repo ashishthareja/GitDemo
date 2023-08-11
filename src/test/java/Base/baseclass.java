@@ -29,7 +29,8 @@ public class baseclass {
 	public static String Timestamp() {
 		logger.info("Timestamp method");
 		SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss.SSSXXX");
-		String timestamp = df.format(new Date())  ;
+		String timestamp = df.format(new Date());
+		System.out.println("GIT TEST3");
 		return (timestamp);
 	}
 	
@@ -38,6 +39,7 @@ public class baseclass {
 		logger.info("DiffTimestamp method");
 		SimpleDateFormat datetime = new SimpleDateFormat("dd-MM-yyyy mm:ss:HH");
 		String timestamp = datetime.format(new Date());
+		System.out.println("GIT TEST4");
 		return (timestamp);
 	}
 	
