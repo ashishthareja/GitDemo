@@ -1,0 +1,49 @@
+[INFO ] 2023-07-26 22:45:55,524 java.user_sends_request_for_program_module_with_valid_request_body() - Request set for Program module with valid base URL and valid data
+[INFO ] 2023-07-26 22:45:55,538 java.createPostRequest() - POSTTestCase Name= Program
+[INFO ] 2023-07-26 22:45:55,539 java.createPostRequest() - POSTTestCase Name= ProgramModuleData
+[INFO ] 2023-07-26 22:45:55,540 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-07-26 22:45:58,809 java.createPostRequest() - POSTREQUESTPRINTProgramIDvalueoutgettoken= 16147
+[INFO ] 2023-07-26 22:45:58,810 java.user_sends_post_request_data_from_and() - Post Request sent with valid request body
+[INFO ] 2023-07-26 22:45:58,844 java.user_sucessfully_receives_status_code_with_reponse_body() - Post Request Successful
+[INFO ] 2023-07-26 22:45:59,007 java.user_sends_request_for_program_module_with_valid_request_body() - Request set for Program module with valid base URL and valid data
+[INFO ] 2023-07-26 22:45:59,008 java.createPostRequest() - POSTTestCase Name= Program
+[INFO ] 2023-07-26 22:45:59,009 java.createPostRequest() - POSTTestCase Name= ProgramModuleNameData
+[INFO ] 2023-07-26 22:45:59,009 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-07-26 22:45:59,419 java.user_sends_post_request_data_from_and() - Post Request sent with valid request body
+[INFO ] 2023-07-26 22:45:59,425 java.user_sucessfully_receives_status_code_with_reponse_body() - Post Request unsuccessful with status code 201
+[INFO ] 2023-07-26 22:45:59,505 java.user_create_post_request_with_valid_endpoint() - Request set for Program module with valid base URL and existing data
+[INFO ] 2023-07-26 22:45:59,508 java.createPostRequest() - POSTTestCase Name= Program
+[INFO ] 2023-07-26 22:45:59,509 java.createPostRequest() - POSTTestCase Name= ProgramModulesameData
+[INFO ] 2023-07-26 22:45:59,509 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-07-26 22:45:59,867 java.user_send_the_existing_data_for_post_request_from_and() - Post Request sent with existing request body
+[INFO ] 2023-07-26 22:45:59,869 java.user_should_receives_status_code_bad_request() - Post Request should recive 400 bad request
+[INFO ] 2023-07-26 22:45:59,925 java.user_create_post_request_with_valid_lms_endpoint() - Request set for Program module with valid base URL and missing data
+[INFO ] 2023-07-26 22:45:59,929 java.createPostRequest() - POSTTestCase Name= Program
+[INFO ] 2023-07-26 22:45:59,930 java.createPostRequest() - POSTTestCase Name= ProgramModulemissingData
+[INFO ] 2023-07-26 22:45:59,930 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-07-26 22:46:00,751 java.user_send_the_missing_data_for_post_request_from_and() - Post Request sent with missing values to request body
+[INFO ] 2023-07-26 22:46:00,753 java.user_should_receives_status_code_internal_server_error() - Post Request should recive 500 Internal server error
+[INFO ] 2023-07-26 22:46:00,823 java.batch_module_base_url_is_set_with_valid_post_batch() - http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches
+[INFO ] 2023-07-26 22:46:00,824 java.batch_module_base_url_is_set_with_valid_post_batch() - http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches
+[INFO ] 2023-07-26 22:46:00,825 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-26 22:46:00,983 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-26 22:46:01,069 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-26 22:46:01,176 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-26 22:46:01,273 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-26 22:46:01,360 java.SendHttpPostRequest() - {"batchName":"Jul23-BugBustersTeam07-SDET-SDET01-001386","batchNoOfClasses":"7","batchDescription":"RestAssuredHackathon","batchStatus":"Active","programId":"10689"}
+[INFO ] 2023-07-26 22:46:01,822 java.verify_status_code_and_response_body() - 9224
+[INFO ] 2023-07-26 22:46:01,883 java.create_new_batch_get_batch_details() - http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches
+[INFO ] 2023-07-26 22:46:01,884 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-26 22:46:02,023 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-26 22:46:02,167 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-26 22:46:02,274 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-26 22:46:02,362 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-26 22:46:02,452 java.create_new_batch_get_batch_details() - {"batchName":"Jul23-BugBustersTeam07-SDET-SDET01-001867","batchNoOfClasses":"7","batchDescription":"RestAssuredHackathon","batchStatus":"Active","programId":"10689"}
+[INFO ] 2023-07-26 22:46:02,717 java.SendHttpPostRequest() - {"batchName":"Jul23-BugBustersTeam07-SDET-SDET01-001867","batchNoOfClasses":"7","batchDescription":"RestAssuredHackathon","batchStatus":"Active","programId":"10689"}
+[INFO ] 2023-07-26 22:46:03,043 java.batch_module_base_url_is_set_with_valid_post_batch() - http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches
+[INFO ] 2023-07-26 22:46:03,049 java.batch_module_base_url_is_set_with_valid_post_batch() - http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches
+[INFO ] 2023-07-26 22:46:03,053 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-26 22:46:03,213 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-26 22:46:03,349 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-26 22:46:03,456 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-26 22:46:03,573 java.SendHttpPostRequest() - {"batchName":"","batchNoOfClasses":"7","batchDescription":"RestAssuredHackathon","batchStatus":"Active","programId":"10689"}

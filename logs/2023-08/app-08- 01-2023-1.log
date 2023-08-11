@@ -1,0 +1,85 @@
+[INFO ] 2023-08-01 13:44:15,419 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 13:44:15,428 java.NextWeekTimestamp() - NextWeekTimestamp method
+[INFO ] 2023-08-01 13:44:15,430 java.AssignmentName() - AssignmentName method
+[INFO ] 2023-08-01 13:44:15,432 java.MonthYear() - MonthYear method
+[INFO ] 2023-08-01 13:44:15,433 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 13:44:17,242 java.user_sets_request_for_assignment_module_with_valid_base_url_and_valid_request_body() - Request set for Batch module with valid base URL and valid data
+[INFO ] 2023-08-01 13:44:17,268 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:18,781 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:19,067 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:19,242 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:19,409 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:19,572 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:19,722 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:19,846 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:19,990 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:20,116 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:20,238 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:20,365 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 13:44:20,371 java.user_sends_post_request_for_assignment_with_valid_url_and_data_from() - JSON BODY= {"graderId":"0","pathAttachment5":"pathfile3.json","comments":"Test comments","pathAttachment4":"pathfile4.json","pathAttachment3":"pathfile2.json","pathAttachment2":"pathfile1.json","pathAttachment1":"pathfile5.json","dueDate":"2023-08-08T13:44:15.429-04:00","assignmentDescription":"API Hackathon phase 2","batchId":0,"assignmentId":0,"createdBy":"0","assignmentName":"Jul23-BugBustters-SDET-API-672"}
+[INFO ] 2023-08-01 13:44:22,971 java.request_should_be_successfull_with_status_code_post_request_valid_url() - Respone is <html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta charset="utf-8"/>
+    <title>Offline for Maintenance</title>
+    <style media="screen">
+		  html,body,iframe {
+			margin: 0;
+			padding: 0;
+		  }
+		  html,body {
+			height: 100%;
+			overflow: hidden;
+		  }
+		  iframe {
+			width: 100%;
+			height: 100%;
+			border: 0;
+		  }
+		</style>
+  </head>
+  <body>
+    <iframe frameborder="1" scrolling="auto" src="//www.herokucdn.com/error-pages/maintenance-mode.html"/>
+  </body>
+</html>
+[INFO ] 2023-08-01 13:44:22,972 java.request_should_be_successfull_with_status_code_post_request_valid_url() - Poststatuscode : 503
+[INFO ] 2023-08-01 13:44:23,116 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 13:44:23,117 java.NextWeekTimestamp() - NextWeekTimestamp method
+[INFO ] 2023-08-01 13:44:23,121 java.AssignmentName() - AssignmentName method
+[INFO ] 2023-08-01 13:44:23,121 java.MonthYear() - MonthYear method
+[INFO ] 2023-08-01 13:44:23,124 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 13:44:23,130 java.user_set_post_request_for_the_lms_api_endpoint() - Request set for Batch module with valid base URL and valid data
+[INFO ] 2023-08-01 13:44:23,133 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:23,249 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:23,361 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:23,463 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:23,568 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:23,724 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:23,829 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:23,910 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:24,004 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:24,090 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:24,181 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:24,258 java.user_sends_post_request_for_assignment_with_valid_url_and_existing_data_from() - Set Assign Id is: 0
+[INFO ] 2023-08-01 13:44:24,261 java.user_sends_post_request_for_assignment_with_valid_url_and_existing_data_from() - JSON BODY= {"graderId":"0","pathAttachment5":"pathfile3.json","comments":"Test comments","pathAttachment4":"pathfile4.json","pathAttachment3":"pathfile2.json","pathAttachment2":"pathfile1.json","pathAttachment1":"pathfile5.json","dueDate":"2023-08-01T13:44:23.117-04:00","assignmentDescription":"API Hackathon phase 2","batchId":0,"assignmentId":0,"createdBy":"0","assignmentName":"Jul23-BugBustters-SDET-API-"}
+[INFO ] 2023-08-01 13:44:24,446 java.user_receives_bad_request_status_with_message_and_boolean_success_details() - Statuscode received400. Error to be reported
+[INFO ] 2023-08-01 13:44:24,527 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 13:44:24,530 java.NextWeekTimestamp() - NextWeekTimestamp method
+[INFO ] 2023-08-01 13:44:24,534 java.AssignmentName() - AssignmentName method
+[INFO ] 2023-08-01 13:44:24,538 java.MonthYear() - MonthYear method
+[INFO ] 2023-08-01 13:44:24,543 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 13:44:24,547 java.user_creates_post_request_for_the_lms_api_endpoint() - Request set for Batch module with valid base URL and valid data
+[INFO ] 2023-08-01 13:44:24,556 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:24,863 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:24,937 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:25,014 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:25,087 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:25,171 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:25,236 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:25,314 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:25,407 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:25,505 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:25,598 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:25,829 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 13:44:25,896 java.user_sends_post_request_for_assignment_with_valid_url_and_some_data_missing_from() - JSON BODY= {"graderId":"U8252","pathAttachment5":"pathfile3.json","comments":"Test comments","pathAttachment4":"pathfile4.json","pathAttachment3":"pathfile2.json","pathAttachment2":"pathfile1.json","pathAttachment1":"pathfile5.json","dueDate":"2023-08-01T13:44:24.530-04:00","assignmentDescription":"API Hackathon phase 2","batchId":0,"assignmentId":"3274","createdBy":"U8252","assignmentName":"Jul23-BugBustters-SDET-API-"}
+[INFO ] 2023-08-01 13:44:26,073 java.user_receives_bad_request_status() - Statuscode received400. Error to be reported

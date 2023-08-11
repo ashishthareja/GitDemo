@@ -1,0 +1,1101 @@
+[INFO ] 2023-08-01 15:29:37,935 java.user_sends_request_for_program_module_with_valid_request_body() - Request set for Program module with valid base URL and valid data
+[INFO ] 2023-08-01 15:29:37,957 java.createPostRequest() - POSTTestCase Name= Program
+[INFO ] 2023-08-01 15:29:37,958 java.createPostRequest() - POSTTestCase Name= ProgramModuleData
+[INFO ] 2023-08-01 15:29:37,958 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-08-01 15:29:39,598 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:29:41,731 java.user_sends_post_request_data_from_and() - Post Request sent with valid request body
+[INFO ] 2023-08-01 15:29:41,737 java.user_sucessfully_receives_status_code_with_reponse_body() - Post Request unsuccessful with status code 201
+[INFO ] 2023-08-01 15:29:41,905 java.user_create_post_request_with_valid_endpoint() - Request set for Program module with valid base URL and existing data
+[INFO ] 2023-08-01 15:29:41,907 java.createPostRequest() - POSTTestCase Name= Program
+[INFO ] 2023-08-01 15:29:41,908 java.createPostRequest() - POSTTestCase Name= ProgramModulesameData
+[INFO ] 2023-08-01 15:29:41,908 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-08-01 15:29:42,275 java.user_send_the_existing_data_for_post_request_from_and() - Post Request sent with existing request body
+[INFO ] 2023-08-01 15:29:42,280 java.user_should_receives_status_code_bad_request() - Post Request unsuccessful with status code 400
+[INFO ] 2023-08-01 15:29:42,390 java.user_create_post_request_with_valid_lms_endpoint() - Request set for Program module with valid base URL and missing data
+[INFO ] 2023-08-01 15:29:42,392 java.createPostRequest() - POSTTestCase Name= Program
+[INFO ] 2023-08-01 15:29:42,393 java.createPostRequest() - POSTTestCase Name= ProgramModulemissingData
+[INFO ] 2023-08-01 15:29:42,393 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-08-01 15:29:42,556 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:29:42,719 java.user_send_the_missing_data_for_post_request_from_and() - Post Request sent with missing values to request body
+[INFO ] 2023-08-01 15:29:42,724 java.user_should_receives_status_code_internal_server_error() - Post Request unsuccessful with status code 500
+[INFO ] 2023-08-01 15:29:42,893 java.batch_module_base_url_is_set_with_valid_post_batch() - http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches
+[INFO ] 2023-08-01 15:29:42,894 java.batch_module_base_url_is_set_with_valid_post_batch() - http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches
+[INFO ] 2023-08-01 15:29:42,896 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:43,026 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:43,146 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:43,261 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:43,359 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:43,465 java.SendHttpPostRequest() - {"batchName":"Jul23-BugBustersTeam07-SDET-SDET01-001335","batchNoOfClasses":"7","batchDescription":"RestAssuredHackathon","batchStatus":"Active","programId":"0"}
+[INFO ] 2023-08-01 15:29:44,345 java.create_new_batch_get_batch_details() - http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches
+[INFO ] 2023-08-01 15:29:44,346 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:44,457 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:44,553 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:44,675 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:44,789 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:44,879 java.create_new_batch_get_batch_details() - {"batchName":"Jul23-BugBustersTeam07-SDET-SDET01-001592","batchNoOfClasses":"7","batchDescription":"RestAssuredHackathon","batchStatus":"Active","programId":"0"}
+[INFO ] 2023-08-01 15:29:45,152 java.batch_module_base_url_is_set_with_valid_post_batch() - http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches
+[INFO ] 2023-08-01 15:29:45,154 java.batch_module_base_url_is_set_with_valid_post_batch() - http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches
+[INFO ] 2023-08-01 15:29:45,155 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:45,247 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:45,334 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:45,428 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:45,527 java.SendHttpPostRequest() - {"batchName":"","batchNoOfClasses":"7","batchDescription":"RestAssuredHackathon","batchStatus":"Active","programId":"0"}
+[INFO ] 2023-08-01 15:29:45,677 java.user_sets_post_request_for_user_module_with_valid_base_url_and_valid_request() - Post request set for User module with valid base URL and valid data
+[INFO ] 2023-08-01 15:29:45,678 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:45,770 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:45,847 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:45,923 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:46,012 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:46,131 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:46,209 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:46,281 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:46,353 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:46,413 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:46,484 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:46,554 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:46,619 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:29:46,622 java.user_post_request_with_data_from() - the request  body  {"userLinkedinUrl":"abc@linkedin","userVisaStatus":"NA","userEduPg":"MS","userLastName":"Hackathon7","userMiddleName":"API","userPhoneNumber":"7185039467","userLocation":"USA","userEduUg":"BE","userFirstName":"BugBusters_0007426","userRoleMaps":[{"userRoleStatus":"Active","roleId":"R01"}],"userComments":"Test1","userTimeZone":"EST"}
+[INFO ] 2023-08-01 15:29:46,627 java.user_post_request_with_data_from() - JSON BODY= {"userLinkedinUrl":"abc@linkedin","userVisaStatus":"NA","userEduPg":"MS","userLastName":"Hackathon7","userMiddleName":"API","userPhoneNumber":"7185039467","userLocation":"USA","userEduUg":"BE","userFirstName":"BugBusters_0007426","userRoleMaps":[{"userRoleStatus":"Active","roleId":"R01"}],"userComments":"Test1","userTimeZone":"EST"}
+[INFO ] 2023-08-01 15:29:46,789 java.user_post_request_with_data_from() - response of the body is io.restassured.internal.RestAssuredResponseImpl@7bdb4d69
+[INFO ] 2023-08-01 15:29:46,790 java.request_is_successful_with_status_code_for_post_request() - Poststatuscode : 503
+[INFO ] 2023-08-01 15:29:46,828 java.user_sets_request_for_user_module_with_valid_base_url_and_valid_request_body_for_staff() - StaffId Post request set for User module with valid base URL and valid data
+[INFO ] 2023-08-01 15:29:46,839 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:29:46,839 java.user_sends_post_request_with_data_from_for_staff() - the request  body  {"userLinkedinUrl":"staff@linkedin.com","userVisaStatus":"H4-EAD","userEduPg":"M.E","userLastName":"API","userMiddleName":"Johny","userPhoneNumber":"6263115960","userLocation":"Europe","userEduUg":"B.E","userFirstName":"BugBuster_336","userRoleMaps":[{"userRoleStatus":"Active","roleId":"R02"}],"userComments":"Post Test","userTimeZone":"MST"}
+[INFO ] 2023-08-01 15:29:46,840 java.user_sends_post_request_with_data_from_for_staff() - JSON BODY= {"userLinkedinUrl":"staff@linkedin.com","userVisaStatus":"H4-EAD","userEduPg":"M.E","userLastName":"API","userMiddleName":"Johny","userPhoneNumber":"6263115960","userLocation":"Europe","userEduUg":"B.E","userFirstName":"BugBuster_336","userRoleMaps":[{"userRoleStatus":"Active","roleId":"R02"}],"userComments":"Post Test","userTimeZone":"MST"}
+[INFO ] 2023-08-01 15:29:46,997 java.user_sends_post_request_with_data_from_for_staff() - response of the body is io.restassured.internal.RestAssuredResponseImpl@69fd99c1
+[INFO ] 2023-08-01 15:29:46,998 java.request_should_be_successful_with_status_code_for_post_request_for_staff() - Poststatuscode : 503
+[INFO ] 2023-08-01 15:29:47,044 java.user_sets_request_for_user_module_with_valid_base_url_and_valid_request_body_for_student() - Student Id Post request set for User module with valid base URL and valid data
+[INFO ] 2023-08-01 15:29:47,046 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:29:47,046 java.user_sends_post_request_with_data_from_for_student() - the request  body  {"userLinkedinUrl":"student@linkedin.com","userVisaStatus":"GC-EAD","userEduPg":"Ms","userLastName":"RestAssured","userMiddleName":"","userPhoneNumber":"8155988443","userLocation":"US","userEduUg":"BSc","userFirstName":"BugBuster_790","userRoleMaps":[{"userRoleStatus":"Active","roleId":"R03"}],"userComments":"Post Test2","userTimeZone":"CST"}
+[INFO ] 2023-08-01 15:29:47,047 java.user_sends_post_request_with_data_from_for_student() - JSON BODY= {"userLinkedinUrl":"student@linkedin.com","userVisaStatus":"GC-EAD","userEduPg":"Ms","userLastName":"RestAssured","userMiddleName":"","userPhoneNumber":"8155988443","userLocation":"US","userEduUg":"BSc","userFirstName":"BugBuster_790","userRoleMaps":[{"userRoleStatus":"Active","roleId":"R03"}],"userComments":"Post Test2","userTimeZone":"CST"}
+[INFO ] 2023-08-01 15:29:47,188 java.user_sends_post_request_with_data_from_for_student() - response of the body is io.restassured.internal.RestAssuredResponseImpl@1c43e84e
+[INFO ] 2023-08-01 15:29:47,189 java.request_should_be_successful_with_status_code_for_post_request_for_student() - Poststatuscode : 503
+[INFO ] 2023-08-01 15:29:47,232 java.user_sets_request_for_user_module_with_exisitng_values() - Request set for User module with valid base URL and valid data
+[INFO ] 2023-08-01 15:29:47,235 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:29:47,236 java.user_sends_post_request_with_existing_phone_number() - JSON BODY= {"userLinkedinUrl":"abc@linkedin.com","userVisaStatus":"NA","userEduPg":"MS","userLastName":"Hackathon7","userMiddleName":"Put","userPhoneNumber":"1305065680","userLocation":"India","userEduUg":"B.Tech","userFirstName":"BugBusters577","userRoleMaps":[{"userRoleStatus":"Active","roleId":"R03"}],"userComments":"Test1","userTimeZone":"IST"}
+[INFO ] 2023-08-01 15:29:47,381 java.user_sends_post_request_with_existing_phone_number() - POST Request sent with valid request body with existing phone number
+[INFO ] 2023-08-01 15:29:47,382 java.user_gets_unsuccessful_status_code_for_post_request() - Poststatuscode : 503
+[INFO ] 2023-08-01 15:29:47,382 java.user_gets_unsuccessful_status_code_for_post_request() - Post Request successful with 503
+[INFO ] 2023-08-01 15:29:47,439 java.user_sets_post_request_for_user_module_with_valid_base_url_and_invalid_request_body() - Request set for User module with valid base URL and valid data
+[INFO ] 2023-08-01 15:29:47,440 java.user_sends_post_request_with_missing_data_fields_from_the_and() - POST Request sent with valid request body with missing fields
+[INFO ] 2023-08-01 15:29:47,441 java.createPUTRequest1() - PUTTestCase SheetName= UserPOST1
+[INFO ] 2023-08-01 15:29:47,441 java.createPUTRequest1() - PUTTestCase Name= missingFields
+[INFO ] 2023-08-01 15:29:47,441 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-08-01 15:29:47,522 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:29:47,522 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:29:47,522 java.createPUTRequest1() - JSON BODY= {"userLinkedinUrl":"abc@linkedin","userVisaStatus":"\"\"","userEduPg":"MS","userLastName":"Hackathon7600","userMiddleName":"API","userPhoneNumber":"8888888888","userLocation":"USA","userEduUg":"Btech","userFirstName":"BugBusters_07358","userRoleMaps":[{"userRoleStatus":"Active","roleId":"R03"}],"userComments":"Test1","userTimeZone":"\"\""}
+[INFO ] 2023-08-01 15:29:47,748 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:29:47,748 java.NextWeekTimestamp() - NextWeekTimestamp method
+[INFO ] 2023-08-01 15:29:47,749 java.AssignmentName() - AssignmentName method
+[INFO ] 2023-08-01 15:29:47,751 java.MonthYear() - MonthYear method
+[INFO ] 2023-08-01 15:29:47,752 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:29:47,753 java.user_sets_request_for_assignment_module_with_valid_base_url_and_valid_request_body() - Request set for Batch module with valid base URL and valid data
+[INFO ] 2023-08-01 15:29:47,755 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:47,820 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:47,888 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:47,946 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:48,026 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:48,093 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:48,156 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:48,208 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:48,269 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:48,329 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:48,388 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:48,441 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:29:48,442 java.user_sends_post_request_for_assignment_with_valid_url_and_data_from() - JSON BODY= {"graderId":"0","pathAttachment5":"pathfile3.json","comments":"Test comments","pathAttachment4":"pathfile4.json","pathAttachment3":"pathfile2.json","pathAttachment2":"pathfile1.json","pathAttachment1":"pathfile5.json","dueDate":"2023-08-08T15:29:47.749-04:00","assignmentDescription":"API Hackathon phase 2","batchId":0,"assignmentId":0,"createdBy":"0","assignmentName":"Jul23-BugBustters-SDET-API-453"}
+[INFO ] 2023-08-01 15:29:48,604 java.request_should_be_successfull_with_status_code_post_request_valid_url() - Respone is <html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta charset="utf-8"/>
+    <title>Offline for Maintenance</title>
+    <style media="screen">
+		  html,body,iframe {
+			margin: 0;
+			padding: 0;
+		  }
+		  html,body {
+			height: 100%;
+			overflow: hidden;
+		  }
+		  iframe {
+			width: 100%;
+			height: 100%;
+			border: 0;
+		  }
+		</style>
+  </head>
+  <body>
+    <iframe frameborder="1" scrolling="auto" src="//www.herokucdn.com/error-pages/maintenance-mode.html"/>
+  </body>
+</html>
+[INFO ] 2023-08-01 15:29:48,605 java.request_should_be_successfull_with_status_code_post_request_valid_url() - Poststatuscode : 503
+[INFO ] 2023-08-01 15:29:48,645 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:29:48,647 java.NextWeekTimestamp() - NextWeekTimestamp method
+[INFO ] 2023-08-01 15:29:48,647 java.AssignmentName() - AssignmentName method
+[INFO ] 2023-08-01 15:29:48,647 java.MonthYear() - MonthYear method
+[INFO ] 2023-08-01 15:29:48,648 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:29:48,650 java.user_set_post_request_for_the_lms_api_endpoint() - Request set for Batch module with valid base URL and valid data
+[INFO ] 2023-08-01 15:29:48,652 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:48,703 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:48,764 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:48,815 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:48,879 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:48,936 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:48,985 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:49,034 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:49,125 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:49,190 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:49,242 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:49,307 java.user_sends_post_request_for_assignment_with_valid_url_and_existing_data_from() - Set Assign Id is: 0
+[INFO ] 2023-08-01 15:29:49,307 java.user_sends_post_request_for_assignment_with_valid_url_and_existing_data_from() - JSON BODY= {"graderId":"0","pathAttachment5":"pathfile3.json","comments":"Test comments","pathAttachment4":"pathfile4.json","pathAttachment3":"pathfile2.json","pathAttachment2":"pathfile1.json","pathAttachment1":"pathfile5.json","dueDate":"2023-08-01T15:29:48.646-04:00","assignmentDescription":"API Hackathon phase 2","batchId":0,"assignmentId":0,"createdBy":"0","assignmentName":"Jul23-BugBustters-SDET-API-"}
+[INFO ] 2023-08-01 15:29:49,462 java.user_receives_bad_request_status_with_message_and_boolean_success_details() - Statuscode received400. Error to be reported
+[INFO ] 2023-08-01 15:29:49,510 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:29:49,511 java.NextWeekTimestamp() - NextWeekTimestamp method
+[INFO ] 2023-08-01 15:29:49,511 java.AssignmentName() - AssignmentName method
+[INFO ] 2023-08-01 15:29:49,511 java.MonthYear() - MonthYear method
+[INFO ] 2023-08-01 15:29:49,512 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:29:49,513 java.user_creates_post_request_for_the_lms_api_endpoint() - Request set for Batch module with valid base URL and valid data
+[INFO ] 2023-08-01 15:29:49,514 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:49,570 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:49,628 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:49,680 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:49,733 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:49,785 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:49,838 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:49,896 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:49,947 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:50,002 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:50,059 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:50,138 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:50,197 java.user_sends_post_request_for_assignment_with_valid_url_and_some_data_missing_from() - JSON BODY= {"graderId":"U8252","pathAttachment5":"pathfile3.json","comments":"Test comments","pathAttachment4":"pathfile4.json","pathAttachment3":"pathfile2.json","pathAttachment2":"pathfile1.json","pathAttachment1":"pathfile5.json","dueDate":"2023-08-01T15:29:49.510-04:00","assignmentDescription":"API Hackathon phase 2","batchId":0,"assignmentId":"3274","createdBy":"U8252","assignmentName":"Jul23-BugBustters-SDET-API-"}
+[INFO ] 2023-08-01 15:29:50,345 java.user_receives_bad_request_status() - Statuscode received400. Error to be reported
+[INFO ] 2023-08-01 15:29:50,402 java.user_sets_request_for_submission_module_with_invalid_base_url_and_valid_request_body() - Request set for invald url and valid request body
+[INFO ] 2023-08-01 15:29:50,404 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:50,477 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:50,526 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:50,575 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:50,626 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:50,675 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:50,719 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:50,764 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:50,808 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:50,860 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:50,913 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:29:50,914 java.user_sends_post_request_with_data_from_and_for_submission_module_invalid_url() - JSON BODY= {"subPathAttach1":"\/opt\/share\/mayotte_collaborative.stk","subComments":"completed","grade":"-1","subDesc":"submission","subPathAttach2":"\/opt\/share\/mayotte_collaborative.stk","assignmentId":"4063","userId":"U8618","subPathAttach3":"\/opt\/share\/mayotte_collaborative.stk","subDateTime":"2023-08-01T15:29:50.914-04:00","subPathAttach4":"\/opt\/share\/mayotte_collaborative.stk","subPathAttach5":"\/opt\/share\/mayotte_collaborative.stk"}
+[INFO ] 2023-08-01 15:29:50,974 java.request_should_be_successfull_with_status_code_for_post_request_submission_module_invalid_url() - Poststatuscode : 503
+[INFO ] 2023-08-01 15:29:51,012 java.user_sets_request_for_submission_module_with_valid_base_url_and_valid_request_body() - Request set for submission module with valid base URL and valid request body
+[INFO ] 2023-08-01 15:29:51,014 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:51,061 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:51,111 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:51,174 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:51,237 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:51,283 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:51,336 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:51,392 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:51,443 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:51,505 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:51,558 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:29:51,558 java.user_sends_post_request_with_data_from_and_for_submission_module() - JSON BODY= {"subPathAttach1":"\/opt\/share\/mayotte_collaborative.stk","subComments":"completed","grade":"-1","subDesc":"submission","subPathAttach2":"\/opt\/share\/mayotte_collaborative.stk","assignmentId":0,"userId":"0","subPathAttach3":"\/opt\/share\/mayotte_collaborative.stk","subDateTime":"2023-08-01T15:29:51.558-04:00","subPathAttach4":"\/opt\/share\/mayotte_collaborative.stk","subPathAttach5":"\/opt\/share\/mayotte_collaborative.stk"}
+[INFO ] 2023-08-01 15:29:51,721 java.request_should_be_successfull_with_status_code_for_post_request_submission_module() - Poststatuscode : 503
+[INFO ] 2023-08-01 15:29:51,753 java.user_sets_request_for_submission_module_with_valid_base_url_and_valid_request_body_for_exisiting_value() - Request set for Submission module for existing value
+[INFO ] 2023-08-01 15:29:51,755 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:51,802 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:51,851 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:51,899 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:51,944 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:52,003 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:52,047 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:52,092 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:52,162 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:52,229 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:52,292 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:29:52,293 java.user_sends_post_request_with_data_from_and_for_submission_module_exisiting_value() - JSON BODY= {"subPathAttach1":"\/opt\/share\/mayotte_collaborative.stk","subComments":"completed","grade":"-1","subDesc":"submission","subPathAttach2":"\/opt\/share\/mayotte_collaborative.stk","assignmentId":0,"userId":"0","subPathAttach3":"\/opt\/share\/mayotte_collaborative.stk","subDateTime":"2023-08-01T15:29:52.293-04:00","subPathAttach4":"\/opt\/share\/mayotte_collaborative.stk","subPathAttach5":"\/opt\/share\/mayotte_collaborative.stk"}
+[INFO ] 2023-08-01 15:29:52,471 java.user_sets_request_for_submission_with_valid_url_and_empty_request_body() - Request set for submission module with empty request body
+[INFO ] 2023-08-01 15:29:52,608 java.user_sends_post_requests_with_empty_request_body() - No data in request body
+[INFO ] 2023-08-01 15:29:52,645 java.user_sets_request_for_submission_module_with_valid_base_url_and_missing_mandatory_field_assignment_id() - Request set for submission module with missing madatory field
+[INFO ] 2023-08-01 15:29:52,646 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:52,695 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:52,744 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:52,794 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:52,845 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:52,892 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:52,939 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:52,981 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:53,026 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:53,070 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:29:53,070 java.user_sends_post_request_with_data_from_and_for_submission_module_mandatory_field_assignment_id() - JSON BODY= {"subPathAttach1":"\/opt\/share\/mayotte_collaborative.stk","subComments":"completed","grade":"-1","subDesc":"submission","subPathAttach2":"\/opt\/share\/mayotte_collaborative.stk","userId":"U8618","subPathAttach3":"\/opt\/share\/mayotte_collaborative.stk","subDateTime":"2023-08-01T15:29:53.070-04:00","subPathAttach4":"\/opt\/share\/mayotte_collaborative.stk","subPathAttach5":"\/opt\/share\/mayotte_collaborative.stk"}
+[INFO ] 2023-08-01 15:29:53,246 java.user_sets_request_for_submission_module_with_valid_base_url_and_valid_request_body_with_no_assignment_id() - Request set for valid url and valid request bodywith null assignment id
+[INFO ] 2023-08-01 15:29:53,247 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:53,302 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:53,353 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:53,394 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:53,443 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:53,492 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:53,536 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:53,580 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:53,636 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:53,681 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:29:53,681 java.user_sends_post_request_with_data_from_and_for_submission_module_with_no_assignment_id() - JSON BODY= {"subPathAttach1":"\/opt\/share\/mayotte_collaborative.stk","subComments":"completed","grade":"-1","subDesc":"submission","subPathAttach2":"\/opt\/share\/mayotte_collaborative.stk","userId":"0","subPathAttach3":"\/opt\/share\/mayotte_collaborative.stk","nullassignmentId":"","subDateTime":"2023-08-01T15:29:53.681-04:00","subPathAttach4":"\/opt\/share\/mayotte_collaborative.stk","subPathAttach5":"\/opt\/share\/mayotte_collaborative.stk"}
+[INFO ] 2023-08-01 15:29:53,819 java.request_should_be_successfull_with_status_code_for_post_request_submission_module_with_no_assignment_id() - Poststatuscode : 503
+[INFO ] 2023-08-01 15:29:53,853 java.user_sets_request_for_submission_module_with_valid_base_url_and_valid_request_body_with_no_user_id() - Request set for valid url and valid request bodywith null assignment id
+[INFO ] 2023-08-01 15:29:53,854 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:53,898 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:53,943 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:53,989 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:54,035 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:54,085 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:54,127 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:54,174 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:54,229 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:54,281 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:29:54,287 java.user_sends_post_request_with_data_from_and_for_submission_module_with_no_user_id() - JSON BODY= {"subPathAttach1":"\/opt\/share\/mayotte_collaborative.stk","subComments":"completed","grade":"-1","subDesc":"submission","subPathAttach2":"\/opt\/share\/mayotte_collaborative.stk","assignmentId":0,"nulluserId":"","subPathAttach3":"\/opt\/share\/mayotte_collaborative.stk","subDateTime":"2023-08-01T15:29:54.281-04:00","subPathAttach4":"\/opt\/share\/mayotte_collaborative.stk","subPathAttach5":"\/opt\/share\/mayotte_collaborative.stk"}
+[INFO ] 2023-08-01 15:29:54,431 java.request_should_be_successfull_with_status_code_for_post_request_submission_module_with_no_user_id() - Poststatuscode : 503
+[INFO ] 2023-08-01 15:29:54,503 java.user_sets_request_for_submission_module_with_valid_base_url_and_valid_request_body_with_no_submission_datetime() - Request set for valid url and valid request bodywith null submission datetime
+[INFO ] 2023-08-01 15:29:54,505 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:54,554 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:54,599 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:54,647 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:54,692 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:54,736 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:54,788 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:54,838 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:54,887 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:54,932 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:54,978 java.user_sends_post_request_with_data_from_and_for_submission_module_with_no_submission_datetime() - JSON BODY= {"subPathAttach1":"\/opt\/share\/mayotte_collaborative.stk","subComments":"completed","grade":"-1","subDesc":"submission","subPathAttach2":"\/opt\/share\/mayotte_collaborative.stk","assignmentId":0,"userId":"0","subPathAttach3":"\/opt\/share\/mayotte_collaborative.stk","subPathAttach4":"\/opt\/share\/mayotte_collaborative.stk","subPathAttach5":"\/opt\/share\/mayotte_collaborative.stk"}
+[INFO ] 2023-08-01 15:29:55,137 java.request_should_be_successfull_with_status_code_for_post_request_submission_module_with_no_submission_datetime() - Poststatuscode : 503
+[INFO ] 2023-08-01 15:29:55,203 java.user_sets_request_for_submission_module_with_valid_base_url_and_valid_request_body_with_no_grade() - Request set for valid url and valid request bodywith null grade value
+[INFO ] 2023-08-01 15:29:55,205 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:55,265 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:55,313 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:55,362 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:55,405 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:55,452 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:55,496 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:55,535 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:55,575 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:55,621 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:29:55,621 java.user_sends_post_request_with_data_from_and_for_submission_module_with_no_grade() - JSON BODY= {"subPathAttach1":"\/opt\/share\/mayotte_collaborative.stk","subComments":"completed","subDesc":"submission","subPathAttach2":"\/opt\/share\/mayotte_collaborative.stk","assignmentId":"4063","userId":"U8618","subPathAttach3":"\/opt\/share\/mayotte_collaborative.stk","subDateTime":"2023-08-01T15:29:55.621-04:00","subPathAttach4":"\/opt\/share\/mayotte_collaborative.stk","subPathAttach5":"\/opt\/share\/mayotte_collaborative.stk"}
+[INFO ] 2023-08-01 15:29:55,760 java.request_should_be_successfull_with_status_code_for_post_request_submission_module_with_no_grade() - Poststatuscode : 503
+[INFO ] 2023-08-01 15:29:55,794 java.user_sets_request_for_submission_module_with_valid_base_url_and_valid_request_body_with_grade_greater() - Request set for valid url and valid request bodywith greater than due date
+[INFO ] 2023-08-01 15:29:55,795 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:55,837 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:55,880 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:55,922 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:55,959 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:56,010 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:56,058 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:56,106 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:56,149 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:56,194 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:56,236 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:56,288 java.user_sends_post_request_with_data_from_and_for_submission_module_with_grade_greater() - JSON BODY= {"subPathAttach1":"\/opt\/share\/mayotte_collaborative.stk","subComments":"completed","postgrade":"5","wrongsubDateTime":"2023-08-03T22:08:33.981+00:00","subDesc":"submission","subPathAttach2":"\/opt\/share\/mayotte_collaborative.stk","assignmentId":"4063","userId":"U8618","subPathAttach3":"\/opt\/share\/mayotte_collaborative.stk","subPathAttach4":"\/opt\/share\/mayotte_collaborative.stk","subPathAttach5":"\/opt\/share\/mayotte_collaborative.stk"}
+[INFO ] 2023-08-01 15:29:56,443 java.request_should_be_successfull_with_status_code_for_post_request_submission_module_with_grade_greater() - Poststatuscode : 503
+[INFO ] 2023-08-01 15:29:56,508 java.user_sets_request_for_submission_module_with_valid_base_url_and_valid_request_body_with_diff_submission_datetime_format() - Request set for valid url and valid request bodywith diff submission datetime format
+[INFO ] 2023-08-01 15:29:56,509 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:56,551 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:56,593 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:56,629 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:56,680 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:56,727 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:56,770 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:56,809 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:56,839 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:56,872 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:56,913 java.DiffTimestamp() - DiffTimestamp method
+[INFO ] 2023-08-01 15:29:56,914 java.user_sends_post_request_with_data_from_and_for_submission_module_with_diff_submission_datetime_format() - JSON BODY= {"subPathAttach1":"\/opt\/share\/mayotte_collaborative.stk","subComments":"completed","grade":"-1","subDesc":"submission","subPathAttach2":"\/opt\/share\/mayotte_collaborative.stk","assignmentId":"4063","userId":"U8618","subPathAttach3":"\/opt\/share\/mayotte_collaborative.stk","subDateTime":"01-08-2023 29:56:15","subPathAttach4":"\/opt\/share\/mayotte_collaborative.stk","subPathAttach5":"\/opt\/share\/mayotte_collaborative.stk"}
+[INFO ] 2023-08-01 15:29:57,079 java.request_should_be_successfull_with_status_code_for_post_request_submission_module_with_diff_submission_datetime_format() - Poststatuscode : 503
+[INFO ] 2023-08-01 15:29:57,080 java.request_should_be_successfull_with_status_code_for_post_request_submission_module_with_diff_submission_datetime_format() - Post Request UnSuccessful
+[INFO ] 2023-08-01 15:29:57,132 java.user_sets_request_for_submission_module_with_valid_base_url_and_valid_request_body_with_greater_than_due_date() - Request set for valid url and valid request bodywith greater than due date
+[INFO ] 2023-08-01 15:29:57,133 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:57,178 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:57,217 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:57,256 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:57,319 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:57,365 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:57,411 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:57,453 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:57,492 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:57,529 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:57,578 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:57,612 java.user_sends_post_request_with_data_from_and_for_submission_module_with_greater_than_due_date() - JSON BODY= {"subPathAttach1":"\/opt\/share\/mayotte_collaborative.stk","subComments":"completed","postgrade":"5","wrongsubDateTime":"2023-08-03T22:08:33.981+00:00","subDesc":"submission","subPathAttach2":"\/opt\/share\/mayotte_collaborative.stk","assignmentId":"4063","userId":"U8618","subPathAttach3":"\/opt\/share\/mayotte_collaborative.stk","subPathAttach4":"\/opt\/share\/mayotte_collaborative.stk","subPathAttach5":"\/opt\/share\/mayotte_collaborative.stk"}
+[INFO ] 2023-08-01 15:29:57,761 java.request_should_be_successfull_with_status_code_for_post_request_submission_module_with_greater_than_due_date() - Poststatuscode : 503
+[INFO ] 2023-08-01 15:29:57,807 java.user_create_get_request_for_program_module_with_valid_endpoint() - Request set for Program module with valid base URL and valid data
+[INFO ] 2023-08-01 15:29:57,887 java.user_sends_get_http_request_data() - when get all programs
+[INFO ] 2023-08-01 15:29:57,936 java.user_set_get_request_for_program_module_with_valid_endpoint_for_program_id() - Request set for Program module with valid base URL and valid data
+[INFO ] 2023-08-01 15:29:57,937 java.user_get_http_request_by_program_id_from_from_and() - TestCase Name= Program
+[INFO ] 2023-08-01 15:29:57,937 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-08-01 15:29:57,981 java.user_get_http_request_by_program_id_from_from_and() - GETREQUESTPRINTProgramIDvalue= 0
+[INFO ] 2023-08-01 15:29:58,125 java.user_sucessfully_receives_status_code_for_valid_program_id() - Response Status is= 503
+[INFO ] 2023-08-01 15:29:58,185 java.user_get_request_for_program_id() - Request set for Program module with valid base URL and invalid programID
+[INFO ] 2023-08-01 15:29:58,191 java.user_set_get_request_for_invalid_program_id_from_and() - TestCase Name= Program
+[INFO ] 2023-08-01 15:29:58,191 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-08-01 15:29:58,236 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:29:58,410 java.user_receives_status_code_not_found() - Response Status is= 503
+[INFO ] 2023-08-01 15:29:58,562 java.user_get_all_batches_request() - Response is= <!DOCTYPE html>
+	<html>
+	  <head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta charset="utf-8">
+		<title>Offline for Maintenance</title>
+		<style media="screen">
+		  html,body,iframe {
+			margin: 0;
+			padding: 0;
+		  }
+		  html,body {
+			height: 100%;
+			overflow: hidden;
+		  }
+		  iframe {
+			width: 100%;
+			height: 100%;
+			border: 0;
+		  }
+		</style>
+	  </head>
+	  <body>
+		<iframe src="//www.herokucdn.com/error-pages/maintenance-mode.html"></iframe>
+	  </body>
+	</html>
+[INFO ] 2023-08-01 15:29:58,606 java.user_verify_get_batches_by_valid_batch_id() - http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches/batchId/
+[INFO ] 2023-08-01 15:29:58,607 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:58,708 java.user_get_status_code() - Response Status is= 503
+[INFO ] 2023-08-01 15:29:58,753 java.user_get_request_for_batch_module_with_valid_base_url_and_valid_path() - http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches/batchId/
+[INFO ] 2023-08-01 15:29:58,754 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:29:58,842 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:58,885 java.user_get_request_with_valid_batch_name_from_and() - http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches/batchName/Jul23-BugBustersTeam07-SDET-SDET01-001
+[INFO ] 2023-08-01 15:29:58,975 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:29:59,030 java.verify_batches_api_returns_status_code() - Response Status is= 503
+[INFO ] 2023-08-01 15:29:59,052 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:59,146 java.user_get_single_batchname_success_status_code_and_verify_schema() - Response Status is= 503
+[INFO ] 2023-08-01 15:29:59,170 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:29:59,225 java.user_status_code_and_with_message_not_found() - Response Status is= 503
+[INFO ] 2023-08-01 15:29:59,291 java.user_creates_get_request_for_the_lms_api_all_user_endpoint() - URL= https://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/users/users
+[INFO ] 2023-08-01 15:29:59,430 java.user_sends_https_request() - Response is= <!DOCTYPE html>
+	<html>
+	  <head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta charset="utf-8">
+		<title>Offline for Maintenance</title>
+		<style media="screen">
+		  html,body,iframe {
+			margin: 0;
+			padding: 0;
+		  }
+		  html,body {
+			height: 100%;
+			overflow: hidden;
+		  }
+		  iframe {
+			width: 100%;
+			height: 100%;
+			border: 0;
+		  }
+		</style>
+	  </head>
+	  <body>
+		<iframe src="//www.herokucdn.com/error-pages/maintenance-mode.html"></iframe>
+	  </body>
+	</html>
+[INFO ] 2023-08-01 15:29:59,432 java.user_recieves_ok_status() - Response Status is= 503
+[INFO ] 2023-08-01 15:29:59,461 java.user_send_get_request_for_the_lms_api_endpoint_with_valid_user_id() - URL= https://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/users/users
+[INFO ] 2023-08-01 15:29:59,463 java.user_get_request_with_valid_user_id_from_and() - TestCase Name= User
+[INFO ] 2023-08-01 15:29:59,463 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:59,498 java.user_get_request_with_valid_user_id_from_and() -  Valid UserID userIdGet
+[INFO ] 2023-08-01 15:29:59,499 java.user_get_request_with_valid_user_id_from_and() - Test URLhttps://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/users/users/
+[INFO ] 2023-08-01 15:29:59,638 java.user_gets_status_code_in_response_body() - Response Status is= 503
+[INFO ] 2023-08-01 15:29:59,657 java.user_creates_get_request_for_the_lms_api_endpoint_with_invalid_user_id() - URL= https://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/users/users
+[INFO ] 2023-08-01 15:29:59,658 java.user_create_get_request_with_invalid_user_id_from_and() - TestCase Name= User
+[INFO ] 2023-08-01 15:29:59,658 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:29:59,831 java.user_receives_not_found_status_with_message() - Response Status is= 503
+[INFO ] 2023-08-01 15:29:59,857 java.user_creates_get_request_for_the_lms_api_all_staff_endpoint() - URL= http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/users/users/getAllStaff
+[INFO ] 2023-08-01 15:29:59,909 java.user_sends_https_request_to_get_all_staff() - Response is= <!DOCTYPE html>
+	<html>
+	  <head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta charset="utf-8">
+		<title>Offline for Maintenance</title>
+		<style media="screen">
+		  html,body,iframe {
+			margin: 0;
+			padding: 0;
+		  }
+		  html,body {
+			height: 100%;
+			overflow: hidden;
+		  }
+		  iframe {
+			width: 100%;
+			height: 100%;
+			border: 0;
+		  }
+		</style>
+	  </head>
+	  <body>
+		<iframe src="//www.herokucdn.com/error-pages/maintenance-mode.html"></iframe>
+	  </body>
+	</html>
+[INFO ] 2023-08-01 15:29:59,911 java.user_recieve_ok_status_with_response_body() - Response Status is= 503
+[INFO ] 2023-08-01 15:29:59,927 java.user_creates_get_request_for_the_lms_api_user_roles_endpoint() - URL= https://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/users/users/roles
+[INFO ] 2023-08-01 15:30:00,061 java.user_sends_https_requestto_get_roles() - Response is= <!DOCTYPE html>
+	<html>
+	  <head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta charset="utf-8">
+		<title>Offline for Maintenance</title>
+		<style media="screen">
+		  html,body,iframe {
+			margin: 0;
+			padding: 0;
+		  }
+		  html,body {
+			height: 100%;
+			overflow: hidden;
+		  }
+		  iframe {
+			width: 100%;
+			height: 100%;
+			border: 0;
+		  }
+		</style>
+	  </head>
+	  <body>
+		<iframe src="//www.herokucdn.com/error-pages/maintenance-mode.html"></iframe>
+	  </body>
+	</html>
+[INFO ] 2023-08-01 15:30:00,069 java.user_receives_status_code_with_response_body() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:00,112 java.user_creates_get_request_for_the_lms_api_all_user_endpoint_with_invalid_endpoint() - URL= https://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/users/user
+[INFO ] 2023-08-01 15:30:00,262 java.user_sends_get_https_request() - Response is= <!DOCTYPE html>
+	<html>
+	  <head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta charset="utf-8">
+		<title>Offline for Maintenance</title>
+		<style media="screen">
+		  html,body,iframe {
+			margin: 0;
+			padding: 0;
+		  }
+		  html,body {
+			height: 100%;
+			overflow: hidden;
+		  }
+		  iframe {
+			width: 100%;
+			height: 100%;
+			border: 0;
+		  }
+		</style>
+	  </head>
+	  <body>
+		<iframe src="//www.herokucdn.com/error-pages/maintenance-mode.html"></iframe>
+	  </body>
+	</html>
+[INFO ] 2023-08-01 15:30:00,270 java.user_recieves_status_code_with_not_found_error_message() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:00,313 java.user_creates_get_request_for_the_lms_api_user_roles_with_invalid_endpoint() - URL= https://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/users/users/role
+[INFO ] 2023-08-01 15:30:00,467 java.user_sends_https_request_to_get_roles_using_invalid_endpont() - Response is= <!DOCTYPE html>
+	<html>
+	  <head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta charset="utf-8">
+		<title>Offline for Maintenance</title>
+		<style media="screen">
+		  html,body,iframe {
+			margin: 0;
+			padding: 0;
+		  }
+		  html,body {
+			height: 100%;
+			overflow: hidden;
+		  }
+		  iframe {
+			width: 100%;
+			height: 100%;
+			border: 0;
+		  }
+		</style>
+	  </head>
+	  <body>
+		<iframe src="//www.herokucdn.com/error-pages/maintenance-mode.html"></iframe>
+	  </body>
+	</html>
+[INFO ] 2023-08-01 15:30:00,472 java.user_receives_status_code_with_not_found_message_in_response_body() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:00,505 java.user_set_get_request_for_the_lms_api_endpoint() - URL= https://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/assignments
+[INFO ] 2023-08-01 15:30:00,635 java.user_set_https_request() - Response is= <!DOCTYPE html>
+	<html>
+	  <head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta charset="utf-8">
+		<title>Offline for Maintenance</title>
+		<style media="screen">
+		  html,body,iframe {
+			margin: 0;
+			padding: 0;
+		  }
+		  html,body {
+			height: 100%;
+			overflow: hidden;
+		  }
+		  iframe {
+			width: 100%;
+			height: 100%;
+			border: 0;
+		  }
+		</style>
+	  </head>
+	  <body>
+		<iframe src="//www.herokucdn.com/error-pages/maintenance-mode.html"></iframe>
+	  </body>
+	</html>
+[INFO ] 2023-08-01 15:30:00,637 java.user_ok_status() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:00,656 java.user_create_get_request_with_valid_assignment_id_from_and() - TestCase Name= Assignment
+[INFO ] 2023-08-01 15:30:00,656 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:00,823 java.user_receives_ok_status_with_response_body() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:00,841 java.user_create_get_request_with_invalid_assignment_id_from_and() - TestCase Name= Assignment
+[INFO ] 2023-08-01 15:30:00,841 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:30:00,964 java.user_not_found_status() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:00,994 java.user_create_get_request_with_valid_batch_id_from_and() - TestCase Name= Batch
+[INFO ] 2023-08-01 15:30:00,995 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:01,180 java.user_get_status_ok() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:01,203 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:30:01,355 java.user_create_not_found_status_with_message_and_boolean_success_details() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:01,412 java.user_send_get_request_for_the_lms_api_endpoint_with_valid_submission_assignment_id() - Get Request for all assignments
+[INFO ] 2023-08-01 15:30:01,413 java.user_create_get_request_with_valid_submission_assignment_id_from_and() - TestCase Name= SubmitTest
+[INFO ] 2023-08-01 15:30:01,549 java.user_receives_ok_status_for_valid_submission_assignment_id() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:01,596 java.user_send_get_request_for_the_lms_api_endpoint_with_valid_submission_student_id() - Get Request for valid assignment student id
+[INFO ] 2023-08-01 15:30:01,597 java.user_create_get_request_with_valid_submission_student_id_from_and() - TestCase Name= SubmitTest
+[INFO ] 2023-08-01 15:30:01,597 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:01,698 java.user_receives_ok_status_for_valid_submission_student_id() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:01,737 java.user_send_get_request_for_the_lms_api_endpoint_with_valid_submission_batch_id() - Get Request for assignment batch id
+[INFO ] 2023-08-01 15:30:01,737 java.user_create_get_request_with_valid_submission_batchid_from_and() - TestCase Name= SubmitTest
+[INFO ] 2023-08-01 15:30:01,737 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:01,828 java.user_receives_ok_status_for_valid_submission_batch_id() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:01,862 java.user_send_get_request_for_the_lms_api_endpoint_with_valid_submission_user_id() - Get Request valid assignment user id
+[INFO ] 2023-08-01 15:30:01,863 java.user_create_get_request_with_valid_submission_userid_from_and() - TestCase Name= SubmitTest
+[INFO ] 2023-08-01 15:30:01,863 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:01,973 java.user_receives_ok_status_for_valid_submission_user_id() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:02,014 java.user_send_get_request_for_the_lms_api_endpoint_with_valid_submission_by_student_batch_id() - Get Request valid submission by batch id
+[INFO ] 2023-08-01 15:30:02,015 java.user_create_get_request_with_valid_submission_by_student_batchid_from_and() - TestCase Name= SubmitTest
+[INFO ] 2023-08-01 15:30:02,015 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:02,108 java.user_receives_ok_status_for_valid_submission_by_student_batch_id() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:02,124 java.user_creates_get_request_for_the_lms_api_endpoint() - request for get all programs valid scenario
+[INFO ] 2023-08-01 15:30:02,274 java.user_sends_https_requests() - when get all programs
+[INFO ] 2023-08-01 15:30:02,314 java.user_creates_get_request_for_the_invalid_lms_api_endpoint() - request for get all programs invalid scenario
+[INFO ] 2023-08-01 15:30:02,558 java.user_sends_https_requests_invalid_url() - when get all programs
+[INFO ] 2023-08-01 15:30:02,594 java.user_send_get_request_for_the_lms_api_endpoint_for_submission_invalid_assignment_id() - Get Request invalid assignment id
+[INFO ] 2023-08-01 15:30:02,594 java.user_create_get_request_for_invalid_assignment_id_from_and() - TestCase Name= Submit
+[INFO ] 2023-08-01 15:30:02,594 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:30:02,722 java.user_not_found_status_for_invalid_assignment_id() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:02,738 java.user_send_get_request_for_the_lms_api_endpoint_for_submission_null_assignment_id() - Get Request for null assignment id
+[INFO ] 2023-08-01 15:30:02,739 java.user_create_get_request_for_null_assignment_id_from_and() - TestCase Name= Submit
+[INFO ] 2023-08-01 15:30:02,862 java.user_bad_request_status_for_null_assignment_id() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:02,877 java.user_send_get_request_for_the_lms_api_endpoint_for_submission_invalid_student_id() - Get Request invalid student id
+[INFO ] 2023-08-01 15:30:02,878 java.user_create_get_request_for_invalid_student_id_from_and() - TestCase Name= Submit
+[INFO ] 2023-08-01 15:30:02,878 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:30:02,940 java.user_not_found_status_for_invalid_student_id() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:02,961 java.user_send_get_request_for_the_lms_api_endpoint_for_submission_null_student_id() - Get Request null student id
+[INFO ] 2023-08-01 15:30:02,961 java.user_create_get_request_for_null_student_id_from_and() - TestCase Name= Submit
+[INFO ] 2023-08-01 15:30:03,035 java.user_not_found_status_for_null_student_id() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:03,056 java.user_creates_get_request_for_the_lms_api_endpoint_with_invalid_submission_batch_id() - Get Request invalid submission batch id
+[INFO ] 2023-08-01 15:30:03,057 java.user_create_get_request_with_invalid_submission_batch_id_from_and() - TestCase Name= Submit
+[INFO ] 2023-08-01 15:30:03,112 java.user_get_status_for_invalid_submission_batch_id() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:03,129 java.user_creates_get_request_for_the_lms_api_endpoint_with_null_submission_batch_id() - Get Request null submission batch id
+[INFO ] 2023-08-01 15:30:03,129 java.user_create_get_request_with_null_submission_batch_id_from_and() - TestCase Name= Submit
+[INFO ] 2023-08-01 15:30:03,182 java.user_get_status_for_null_submission_batch_id() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:03,196 java.user_creates_get_request_for_the_lms_api_endpoint_with_invalid_get_submission_by_batch_id() - Get Request invalid batch id
+[INFO ] 2023-08-01 15:30:03,196 java.user_create_get_request_with_invalid_get_submission_by_batch_id_from_and() - TestCase Name= Submit
+[INFO ] 2023-08-01 15:30:03,196 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:30:03,253 java.user_get_status_bad_request_for_invalid_get_submission_by_batch_id() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:03,268 java.user_creates_get_request_for_the_lms_api_endpoint_with_null_submission_by_batch_id() - Get Request null submission by batch id
+[INFO ] 2023-08-01 15:30:03,269 java.user_create_get_request_with_null_submission_by_batch_id_from_and() - TestCase Name= Submit
+[INFO ] 2023-08-01 15:30:03,326 java.user_get_status_bad_requesr_for_null_submission_by_batch_id() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:03,341 java.user_creates_get_request_for_the_lms_api_endpoint_with_invalid_get_submission_by_user_id() - Get Request invalid userid
+[INFO ] 2023-08-01 15:30:03,342 java.user_create_get_request_with_invalid_get_submission_by_user_id_from_and() - TestCase Name= Submit
+[INFO ] 2023-08-01 15:30:03,342 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:30:03,396 java.user_get_status_bad_request_for_invalid_get_submission_by_user_id() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:03,411 java.user_creates_get_request_for_the_lms_api_endpoint_with_null_submission_by_user_id() - Get Request null submission user id
+[INFO ] 2023-08-01 15:30:03,411 java.user_create_get_request_with_null_submission_by_user_id_from_and() - TestCase Name= Submit
+[INFO ] 2023-08-01 15:30:03,471 java.user_get_status_bad_requesr_for_null_submission_by_userid() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:03,495 java.user_create_put_request_for_program_module_with_valid_endpoint_and_program_id() - Request set for Program module with valid base URL and valid program ID
+[INFO ] 2023-08-01 15:30:03,496 java.createPUTRequest() - PUTTestCase Name= Program
+[INFO ] 2023-08-01 15:30:03,496 java.createPUTRequest() - PUTTestCase Name= PUTProgramID
+[INFO ] 2023-08-01 15:30:03,496 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-08-01 15:30:03,525 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:30:03,525 java.createPUTRequest() - GETREQUESTPRINTProgramIDvalue= 0
+[INFO ] 2023-08-01 15:30:03,662 java.user_sends_put_http_request_and_request_body_from_and() - PUT Request sent with valid request body
+[INFO ] 2023-08-01 15:30:03,662 java.user_sucessfully_receives_status_code_ok_with_valid_reponse_body() - PUT Request unsuccessful with status code 200
+[INFO ] 2023-08-01 15:30:03,688 java.user_create_put_request_for_program_module_with_valid_endpoint_and_invalid_program_id() - Request set for Program module with valid base URL and valid program ID
+[INFO ] 2023-08-01 15:30:03,689 java.createPUTRequest() - PUTTestCase Name= Program
+[INFO ] 2023-08-01 15:30:03,689 java.createPUTRequest() - PUTTestCase Name= PUTInvalidProgramID
+[INFO ] 2023-08-01 15:30:03,689 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-08-01 15:30:03,727 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:30:03,858 java.user_sends_put_http_request_and_request_body_from_and_for_invalid_program_id() - PUT Request sent with valid request body
+[INFO ] 2023-08-01 15:30:03,859 java.user_receives_status_code_not_found_for_invalid_program_id() - PUT Request unsuccessful with status code 404
+[INFO ] 2023-08-01 15:30:03,895 java.user_create_put_request_for_program_module_with_valid_endpoint_and_valid_program_id() - Request set for Program module with valid base URL and valid program ID
+[INFO ] 2023-08-01 15:30:03,896 java.user_sends_put_http_request_and_request_body_from_and_for_missing_fields() - PUT Request sent with valid request body
+[INFO ] 2023-08-01 15:30:03,899 java.user_sends_put_http_request_and_request_body_from_and_for_missing_fields() - {"lastModTime":" ","programDescription":" ","creationTime":" ","programName":" ","programId":" ","programStatus":" "}
+[INFO ] 2023-08-01 15:30:04,032 java.user_sends_put_http_request_and_request_body_from_and_for_missing_fields() - PUT Request sent with valid request body
+[INFO ] 2023-08-01 15:30:04,037 java.user_receives_status_code_bad_request_for_missing_fileds() - PUT Request unsuccessful with status code 400
+[INFO ] 2023-08-01 15:30:04,086 java.user_create_put_request_for_program_module_with_valid_endpoint_and_program_name() - Request set for Program module with valid base URL and valid Name
+[INFO ] 2023-08-01 15:30:04,087 java.createPUTRequestname() - SheetName Name= ProgramTestCase Name=PUTProgramName
+[INFO ] 2023-08-01 15:30:04,087 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-08-01 15:30:04,259 java.user_sends_put_http_request_and_request_body_from_and_for_program_name() - PUT Request sent with valid request body
+[INFO ] 2023-08-01 15:30:04,260 java.user_sucessfully_receives_status_code_ok_with_valid_reponse_body_for_program_name() - PUT Request unsuccessful with status code 200
+[INFO ] 2023-08-01 15:30:04,304 java.user_create_put_request_for_program_module_with_valid_endpoint_and_invalid_program_name() - Request set for Program module with valid base URL and valid program ID
+[INFO ] 2023-08-01 15:30:04,304 java.createPUTRequestname() - SheetName Name= ProgramTestCase Name=PUTInvalidProgramName
+[INFO ] 2023-08-01 15:30:04,304 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-08-01 15:30:04,470 java.user_sends_put_http_request_and_request_body_from_and_for_invalid_program_name() - PUT Request sent with valid request body and invalid program name
+[INFO ] 2023-08-01 15:30:04,473 java.user_receives_status_code_not_found_for_invalid_program_name_for_program_name() - PUT Request unsuccessful with status code 404
+[INFO ] 2023-08-01 15:30:04,509 java.user_create_put_request_for_program_module_with_valid_missing_program_name() - Request set for Program module with valid base URL and valid program Name
+[INFO ] 2023-08-01 15:30:04,510 java.user_sends_put_http_request_and_request_body_for_program_name_missing_fields() - {"lastModTime":" ","programDescription":" ","creationTime":" ","programName":" ","programId":" ","programStatus":" "}
+[INFO ] 2023-08-01 15:30:04,639 java.user_sends_put_http_request_and_request_body_for_program_name_missing_fields() - PUT Request sent with valid request body
+[INFO ] 2023-08-01 15:30:04,640 java.user_receives_status_code_bad_request_for_missing_fileds_for_program_name() - PUT Request unsuccessful with status code 400
+[INFO ] 2023-08-01 15:30:04,657 java.create_new_batch_get_batch_details() - http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches
+[INFO ] 2023-08-01 15:30:04,659 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:04,695 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:04,731 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:04,774 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:04,823 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:04,862 java.create_new_batch_get_batch_details() - {"batchName":"Jul23-BugBustersTeam07-SDET-SDET01-83","batchNoOfClasses":"7","batchDescription":"RestAssuredHackathon","batchStatus":"Active","programId":"10689"}
+[INFO ] 2023-08-01 15:30:04,923 java.update_new_batch_get_batch_details() - http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches/0
+[INFO ] 2023-08-01 15:30:04,923 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:04,957 java.update_new_batch_get_batch_details() - {"batchName":null,"batchNoOfClasses":0,"batchId":null,"batchDescription":"RestAssuredHackathon1","batchStatus":null,"programId":0}
+[INFO ] 2023-08-01 15:30:05,049 java.create_new_batch_get_batch_details() - http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches
+[INFO ] 2023-08-01 15:30:05,052 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:05,087 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:05,123 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:05,154 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:05,184 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:05,221 java.create_new_batch_get_batch_details() - {"batchName":"Jul23-BugBustersTeam07-SDET-SDET01-322","batchNoOfClasses":"7","batchDescription":"RestAssuredHackathon","batchStatus":"Active","programId":"10689"}
+[INFO ] 2023-08-01 15:30:05,289 java.update_new_batch_with_missing_batch_details() - http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches/null
+[INFO ] 2023-08-01 15:30:05,289 java.update_new_batch_with_missing_batch_details() - {"batchNoOfClasses":0,"batchStatus":null,"programId":0}
+[INFO ] 2023-08-01 15:30:05,365 java.create_new_batch_get_batch_details() - http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches
+[INFO ] 2023-08-01 15:30:05,365 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:05,395 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:05,423 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:05,449 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:05,477 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:05,509 java.create_new_batch_get_batch_details() - {"batchName":"Jul23-BugBustersTeam07-SDET-SDET01-446","batchNoOfClasses":"7","batchDescription":"RestAssuredHackathon","batchStatus":"Active","programId":"10689"}
+[INFO ] 2023-08-01 15:30:05,563 java.update_new_batch_with_invalid_batchid_details() - http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches/99999999
+[INFO ] 2023-08-01 15:30:05,563 java.update_new_batch_with_invalid_batchid_details() - {"batchName":null,"batchNoOfClasses":0,"batchDescription":null,"batchStatus":null,"programId":0}
+[INFO ] 2023-08-01 15:30:05,669 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:30:05,670 java.user_creates_put_request_by_valid_user_id_for_the_lms_api_endpoint() - {"userLinkedinUrl":"efg@linkedin.com","userVisaStatus":"H4-EAD","userEduPg":"MSc","userLastName":"API","userMiddleName":"Hackathon","userPhoneNumber":"8764568765","userLocation":"India","userEduUg":"BSc","userFirstName":"BigB_0045","userComments":"Update user","userId":"U8332","userTimeZone":"IST"}
+[INFO ] 2023-08-01 15:30:05,672 java.user_creates_put_request_by_valid_user_id_for_the_lms_api_endpoint() - Put Request user module with valid base valid UserID
+[INFO ] 2023-08-01 15:30:05,673 java.user_sends_put_request_with_data_from_valid_payload() - https://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/users/users/U8285
+[INFO ] 2023-08-01 15:30:05,825 java.user_gets_successful_statuscode() - io.restassured.internal.ValidatableResponseImpl@159a32a4
+[INFO ] 2023-08-01 15:30:05,884 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:30:05,884 java.user_creates_put_request_with_the_valid_base_url_and_valid_request_body() - Request set for User module update with valid base URL and valid User ID
+[INFO ] 2023-08-01 15:30:05,885 java.user_sends_put_request_with_with_valid_user_data_from_and() - PUT Request sent with valid request body
+[INFO ] 2023-08-01 15:30:05,885 java.createPUTRequest() - PUTTestCase SheetName= UserPUT
+[INFO ] 2023-08-01 15:30:05,885 java.createPUTRequest() - PUTTestCase Name= updateUser
+[INFO ] 2023-08-01 15:30:05,886 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-08-01 15:30:05,925 java.createPUTRequest() - JSON BODY= {"userLinkedinUrl":"marvin@linkedin","userVisaStatus":"H4","userEduPg":"Mtech","userLastName":"Marvin","userMiddleName":"Mrn","userPhoneNumber":"3991321999","userLocation":"Canada","userEduUg":"BE","userFirstName":"BugBusters_0007","userComments":"None","userId":"U9636","userTimeZone":"EST"}
+[INFO ] 2023-08-01 15:30:06,063 java.request_should_be_successful_with_status_code() - PUT Request unsuccessful with status code 200
+[INFO ] 2023-08-01 15:30:06,096 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:30:06,096 java.user_creates_put_request_with_the_valid_base_url_and_invalid_user_id() - Request set for User module update with valid base URL and invalid User ID
+[INFO ] 2023-08-01 15:30:06,097 java.user_sends_put_request_with_with_invalid_user_data_from_and() - PUT Request sent with valid request body
+[INFO ] 2023-08-01 15:30:06,098 java.createPUTRequest() - PUTTestCase SheetName= UserPUT
+[INFO ] 2023-08-01 15:30:06,098 java.createPUTRequest() - PUTTestCase Name= InvalidUser
+[INFO ] 2023-08-01 15:30:06,098 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-08-01 15:30:06,125 java.createPUTRequest() - JSON BODY= {"userLinkedinUrl":"marvin@linkedin","userVisaStatus":"H4","userEduPg":"Mtech","userLastName":"Marvin","userMiddleName":"Mrn","userPhoneNumber":"3991321999","userLocation":"Canada","userEduUg":"BE","userFirstName":"BugBusters_0007","userComments":"None","userId":"U8002","userTimeZone":"EST"}
+[INFO ] 2023-08-01 15:30:06,277 java.request_should_be_unsuccessful_with_status_code() - PUT Request unsuccessful with status code 404
+[INFO ] 2023-08-01 15:30:06,319 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:30:06,319 java.user_creates_put_request_with_the_valid_base_url_and_valid_request_body() - Request set for User module update with valid base URL and valid User ID
+[INFO ] 2023-08-01 15:30:06,320 java.user_sends_put_request_with_with_valid_user_data_and_missing_data_fields_from_and() - PUT Request sent with missing fields in request body
+[INFO ] 2023-08-01 15:30:06,320 java.createPUTRequest() - PUTTestCase SheetName= UserPUT
+[INFO ] 2023-08-01 15:30:06,320 java.createPUTRequest() - PUTTestCase Name= MissingFields
+[INFO ] 2023-08-01 15:30:06,321 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-08-01 15:30:06,344 java.createPUTRequest() - JSON BODY= {"userLinkedinUrl":"marvin@linkedin","userVisaStatus":"H4","userEduPg":"Mtech","userLastName":"Marvin","userMiddleName":"Mrn","userPhoneNumber":"3991321999","userLocation":"Canada","userEduUg":"BE","userFirstName":"BugBusters_0007","userComments":"None","userId":"U9636","userTimeZone":"\"\""}
+[INFO ] 2023-08-01 15:30:06,501 java.request_should_be_unsuccessful_with_status_code_with() - PUT Request unsuccessful with status code 400
+[INFO ] 2023-08-01 15:30:06,545 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:30:06,546 java.user_creates_put_request_with_the_valid_base_url_and_valid_request_body_for_role_status_update() - Request set for User module update with valid base URL and invalid User ID
+[INFO ] 2023-08-01 15:30:06,547 java.user_sends_put_request_with_with_valid_user_data_from_and_for_rolestatus_update() - PUT Request sent with valid request body
+[INFO ] 2023-08-01 15:30:06,547 java.roleStatusPUTRequest() - PUTTestCase SheetName= UserPUT
+[INFO ] 2023-08-01 15:30:06,547 java.roleStatusPUTRequest() - PUTTestCase Name= roleStatus
+[INFO ] 2023-08-01 15:30:06,548 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-08-01 15:30:06,576 java.roleStatusPUTRequest() - JSON BODY= {"userRoleStatus":"Inactive","roleId":"R01"}
+[INFO ] 2023-08-01 15:30:06,727 java.request_should_be_successful_with_status_code() - PUT Request unsuccessful with status code 200
+[INFO ] 2023-08-01 15:30:06,765 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:30:06,767 java.user_creates_put_request_with_the_valid_base_url_and_valid_request_body_for_role_status_update() - Request set for User module update with valid base URL and invalid User ID
+[INFO ] 2023-08-01 15:30:06,768 java.user_sends_put_request_with_invalid_user_data_from_and_for_rolestatus_update() - PUT Request sent with valid request body
+[INFO ] 2023-08-01 15:30:06,768 java.roleStatusPUTRequest() - PUTTestCase SheetName= UserPUT
+[INFO ] 2023-08-01 15:30:06,768 java.roleStatusPUTRequest() - PUTTestCase Name= InvalidroleStatus
+[INFO ] 2023-08-01 15:30:06,768 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-08-01 15:30:06,799 java.roleStatusPUTRequest() - JSON BODY= {"userRoleStatus":"Inactive","roleId":"R01"}
+[INFO ] 2023-08-01 15:30:06,949 java.request_should_be_unsuccessful_with_status_code() - PUT Request unsuccessful with status code 404
+[INFO ] 2023-08-01 15:30:06,997 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:30:06,998 java.user_creates_put_request_with_the_valid_base_url_and_valid_request_body_for_role_status_update() - Request set for User module update with valid base URL and invalid User ID
+[INFO ] 2023-08-01 15:30:06,998 java.user_sends_put_request_with_valid_user_data_from_and_for_rolestatus_update() - PUT Request sent with missing fields request body
+[INFO ] 2023-08-01 15:30:06,999 java.roleMissingPUTRequest() - PUTTestCase SheetName= UserPUT
+[INFO ] 2023-08-01 15:30:06,999 java.roleMissingPUTRequest() - PUTTestCase Name= MissingroleStatus
+[INFO ] 2023-08-01 15:30:07,000 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-08-01 15:30:07,032 java.roleMissingPUTRequest() - JSON BODY= {"userRoleStatus":"\"\""}
+[INFO ] 2023-08-01 15:30:07,208 java.request_should_be_unsuccessful_with_status_code() - PUT Request unsuccessful with status code 400
+[INFO ] 2023-08-01 15:30:07,246 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:30:07,246 java.user_creates_put_request_with_the_valid_base_url_and_valid_request_body_with_program_batch_id() - Request set for User module update with program and Batch ID
+[INFO ] 2023-08-01 15:30:07,247 java.user_sends_put_request_with_valid_user_data_from_and_for_program_and_batch() - PUT Request sent with missing fields request body
+[INFO ] 2023-08-01 15:30:07,247 java.ProgBatchPUTRequest() - PUTTestCase SheetName= UPUTprogBatch
+[INFO ] 2023-08-01 15:30:07,247 java.ProgBatchPUTRequest() - PUTTestCase Name= updateProgBatch
+[INFO ] 2023-08-01 15:30:07,247 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-08-01 15:30:07,275 java.ProgBatchPUTRequest() - JSON BODY= {"userRoleProgramBatches":[{"userRoleProgramBatchStatus":"Active","batchId":"6526"}],"roleId":"R03","userId":"U9636","programId":"10754"}
+[INFO ] 2023-08-01 15:30:07,403 java.request_should_be_successful_with_status_code() - PUT Request unsuccessful with status code 200
+[INFO ] 2023-08-01 15:30:07,417 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:30:07,418 java.user_creates_put_request_with_the_valid_base_url_and_valid_request_body_with_program_batch_id() - Request set for User module update with program and Batch ID
+[INFO ] 2023-08-01 15:30:07,419 java.user_sends_put_request_with_valid_user_data_from_and_for_program_and_batch() - PUT Request sent with missing fields request body
+[INFO ] 2023-08-01 15:30:07,419 java.ProgBatchPUTRequest() - PUTTestCase SheetName= UPUTprogBatch
+[INFO ] 2023-08-01 15:30:07,419 java.ProgBatchPUTRequest() - PUTTestCase Name= invalidUserID
+[INFO ] 2023-08-01 15:30:07,419 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-08-01 15:30:07,456 java.ProgBatchPUTRequest() - JSON BODY= {"userRoleProgramBatches":[{"userRoleProgramBatchStatus":"Active","batchId":"6526"}],"roleId":"R03","userId":"U8000","programId":"10754"}
+[INFO ] 2023-08-01 15:30:07,597 java.request_should_be_unsuccessful_with_status_code() - PUT Request unsuccessful with status code 404
+[INFO ] 2023-08-01 15:30:07,640 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:30:07,640 java.user_creates_put_request_with_the_valid_base_url_and_valid_request_body_with_program_batch_id() - Request set for User module update with program and Batch ID
+[INFO ] 2023-08-01 15:30:07,641 java.user_sends_put_request_with_valid_user_data_from_and_with_missing_fields() - PUT Request sent with missing fields request body
+[INFO ] 2023-08-01 15:30:07,641 java.MissingProgBatchPUTRequest() - PUTTestCase SheetName= UPUTprogBatch
+[INFO ] 2023-08-01 15:30:07,641 java.MissingProgBatchPUTRequest() - PUTTestCase Name= missingField
+[INFO ] 2023-08-01 15:30:07,642 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-08-01 15:30:07,668 java.MissingProgBatchPUTRequest() - JSON BODY= {"userRoleProgramBatches":[{"userRoleProgramBatchStatus":"Active","batchId":"6526"}],"programId":"10754"}
+[INFO ] 2023-08-01 15:30:07,809 java.request_should_be_unsuccessful_with_status_code() - PUT Request unsuccessful with status code 400
+[INFO ] 2023-08-01 15:30:07,858 java.user_set_put_request_for_the_lms_api_endpoint_and_valid_assignment_id() - {"graderId":"U8153","pathAttachment5":"file2.json","comments":"Creating by Me","pathAttachment4":"file3.json","createdBy":"U8153","pathAttachment2":"file1.json1","pathAttachment1":"345-654-3246","dueDate":"2023-08-20T21:00:09.853+00:00","assignmentDescription":"testing Login page","batchId":"6674","assignmentId":"3336","assignmentName":"Jun23-APICollectors_SDET_97"}
+[INFO ] 2023-08-01 15:30:07,860 java.user_set_put_request_for_the_lms_api_endpoint_and_valid_assignment_id() - Put Request user module with valid base valid UserID
+[INFO ] 2023-08-01 15:30:07,860 java.user_set_put_request_for_the_lms_api_endpoint_and_valid_assignment_id() - Request = io.restassured.internal.RequestSpecificationImpl@3502b614
+[INFO ] 2023-08-01 15:30:07,998 java.user_sends_https_request_and_request_body() - Config Assignmnet ID is 0
+[INFO ] 2023-08-01 15:30:07,999 java.user_sends_https_request_and_request_body() - Respone is <html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta charset="utf-8"/>
+    <title>Offline for Maintenance</title>
+    <style media="screen">
+		  html,body,iframe {
+			margin: 0;
+			padding: 0;
+		  }
+		  html,body {
+			height: 100%;
+			overflow: hidden;
+		  }
+		  iframe {
+			width: 100%;
+			height: 100%;
+			border: 0;
+		  }
+		</style>
+  </head>
+  <body>
+    <iframe frameborder="1" scrolling="auto" src="//www.herokucdn.com/error-pages/maintenance-mode.html"/>
+  </body>
+</html>
+[INFO ] 2023-08-01 15:30:07,999 java.user_sends_https_request_and_request_body() - Request set for Batch module with valid base URL and valid data
+[INFO ] 2023-08-01 15:30:08,002 java.user_receives_ok_status_with_updated_value_in_response_body() - Response= io.restassured.internal.ValidatableResponseImpl@5a02fca5
+[INFO ] 2023-08-01 15:30:08,028 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:30:08,180 java.user_sends_https_request_and_fields() - Resposse inavlid assignmentio.restassured.internal.RestAssuredResponseImpl@2c914364
+[INFO ] 2023-08-01 15:30:08,225 java.user_put_request_with_valid_assignment_id() - Request set for Batch module with valid base URL and valid data
+[INFO ] 2023-08-01 15:30:08,418 java.user_sets_request_for_submission_module_with_valid_submission_id_and_valid_request_body() - given put request for valid submission id and request body
+[INFO ] 2023-08-01 15:30:08,419 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:08,442 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:08,467 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:08,492 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:08,522 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:08,554 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:08,585 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:08,611 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:08,658 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:30:08,659 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:30:08,659 java.user_sends_post_request_with_data_from_and_with_valid_submission_id() - JSON BODY= {"subPathAttach1":"\/opt\/share\/mayotte_collaborative.stk","subComments":"re-submission completed","updatedgradedBy":"U8252","subDesc":"re-submission","subPathAttach2":"\/opt\/share\/mayotte_collaborative.stk","assignmentId":0,"userId":"0","subPathAttach3":"\/opt\/share\/mayotte_collaborative.stk","gradedDateTime":"2023-08-01T15:30:08.659-04:00","subPathAttach4":"\/opt\/share\/mayotte_collaborative.stk","subDateTime":"2023-08-01T15:30:08.658-04:00","subPathAttach5":"\/opt\/share\/mayotte_collaborative.stk","grade":"-1"}
+[INFO ] 2023-08-01 15:30:09,028 java.request_should_be_successfull_with_status_code_for_put_request_valid_submission_id() - Poststatuscode : 503
+[INFO ] 2023-08-01 15:30:09,045 java.user_sets_request_for_submission_module_with_invalid_submission_id_and_valid_request_body() - given put request for valid submission id and request body
+[INFO ] 2023-08-01 15:30:09,046 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:30:09,174 java.request_should_be_successfull_with_status_code_for_put_request_invalid_submission_id() - Poststatuscode : 503
+[INFO ] 2023-08-01 15:30:09,205 java.user_sets_request_for_submission_module_with_valid_submission_id_and_missing_madatory_request_body() - given put request for valid submission id and request body
+[INFO ] 2023-08-01 15:30:09,205 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:09,240 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:09,299 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:09,347 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:09,378 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:09,412 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:09,451 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:09,481 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:09,525 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:30:09,525 java.user_sends_request_with_data_from_and_with_valid_submission_id_and_missing_mandatory_request_body() - JSON BODY= {"subPathAttach1":"\/opt\/share\/mayotte_collaborative.stk","UpdatesubComments":"re-submission completed","grade":"-1","subPathAttach2":"\/opt\/share\/mayotte_collaborative.stk","subPathAttach3":"\/opt\/share\/mayotte_collaborative.stk","updatesubDesc":"re-submission","subDateTime":"2023-08-01T15:30:09.525-04:00","subPathAttach4":"\/opt\/share\/mayotte_collaborative.stk","subPathAttach5":"\/opt\/share\/mayotte_collaborative.stk"}
+[INFO ] 2023-08-01 15:30:09,650 java.request_should_be_successfull_with_status_code_for_put_request_valid_submission_id_and_missing_mandatory_request_body() - Poststatuscode : 503
+[INFO ] 2023-08-01 15:30:09,664 java.user_sets_request_for_grade_submission_module_with_invalid_submission_id_and_valid_request_body() - given put request for valid submission id and request body
+[INFO ] 2023-08-01 15:30:09,665 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:30:09,810 java.request_should_be_successfull_with_status_code_for_grade_submission_invalid_id() - Poststatuscode : 503
+[INFO ] 2023-08-01 15:30:09,836 java.user_sets_request_for_grade_submission_module_with_valid_submission_id_and_missing_madatory_request_body() - given put request for valid submission id and request body
+[INFO ] 2023-08-01 15:30:09,837 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:09,859 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:09,888 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:09,915 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:09,954 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:09,991 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:10,025 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:10,047 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:10,077 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:30:10,078 java.user_sends_put_request_with_data_from_and_with_valid_submission_id_and_missing_mandatory_request_body_for_grade_update() - JSON BODY= {"subPathAttach1":"\/opt\/share\/mayotte_collaborative.stk","UpdatesubComments":"re-submission completed","subPathAttach2":"\/opt\/share\/mayotte_collaborative.stk","updatedgrade":"5","subPathAttach3":"\/opt\/share\/mayotte_collaborative.stk","updatesubDesc":"re-submission","subDateTime":"2023-08-01T15:30:10.078-04:00","subPathAttach4":"\/opt\/share\/mayotte_collaborative.stk","subPathAttach5":"\/opt\/share\/mayotte_collaborative.stk"}
+[INFO ] 2023-08-01 15:30:10,227 java.request_should_be_successfull_with_status_code_for_put_request_grade_submission_id() - Poststatuscode : 503
+[INFO ] 2023-08-01 15:30:10,269 java.validate_user_sets_request_for_grade_submission_module_with_valid_submission_id_and_valid_request_body() - given put request for valid submission id and request body
+[INFO ] 2023-08-01 15:30:10,269 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:10,292 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:10,316 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:10,340 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:10,365 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:10,391 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:10,416 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:10,456 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:10,492 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:30:10,492 java.Timestamp() - Timestamp method
+[INFO ] 2023-08-01 15:30:10,493 java.validate_user_sends_put_request_with_data_from_and_with_valid_submission_id_for_grade_update() - JSON BODY= {"subPathAttach1":"\/opt\/share\/mayotte_collaborative.stk","subComments":"re-submission completed","subDesc":"re-submission","subPathAttach2":"\/opt\/share\/mayotte_collaborative.stk","assignmentId":0,"userId":"0","subPathAttach3":"\/opt\/share\/mayotte_collaborative.stk","gradedDateTime":"2023-08-01T15:30:10.492-04:00","subPathAttach4":"\/opt\/share\/mayotte_collaborative.stk","subDateTime":"2023-08-01T15:30:10.492-04:00","subPathAttach5":"\/opt\/share\/mayotte_collaborative.stk","gradedBy":"U7900","grade":"-1"}
+[INFO ] 2023-08-01 15:30:10,620 java.validate_request_should_be_successfull_with_status_code_for_grade_submission() - Poststatuscode : 503
+[INFO ] 2023-08-01 15:30:10,646 java.user_send_get_request_for_the_lms_api_endpoint_with_valid_submission_submission_id() - Delete request for valid submission id
+[INFO ] 2023-08-01 15:30:10,647 java.user_create_get_request_with_valid_submission_id_from_and() - Config.Delete_URL + "/" + Config.submissionid
+[INFO ] 2023-08-01 15:30:10,791 java.user_receives_ok_status_for_valid_submission_submission_id() - <html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta charset="utf-8"/>
+    <title>Offline for Maintenance</title>
+    <style media="screen">
+		  html,body,iframe {
+			margin: 0;
+			padding: 0;
+		  }
+		  html,body {
+			height: 100%;
+			overflow: hidden;
+		  }
+		  iframe {
+			width: 100%;
+			height: 100%;
+			border: 0;
+		  }
+		</style>
+  </head>
+  <body>
+    <iframe frameborder="1" scrolling="auto" src="//www.herokucdn.com/error-pages/maintenance-mode.html"/>
+  </body>
+</html>
+[INFO ] 2023-08-01 15:30:10,792 java.user_receives_ok_status_for_valid_submission_submission_id() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:10,810 java.user_send_get_request_for_the_lms_api_endpoint_with_invalid_submission_id() - Delete request for invalid submission id
+[INFO ] 2023-08-01 15:30:10,810 java.user_create_get_request_with_invalid_submission_id_from_and() - Config.Delete_URL
+[INFO ] 2023-08-01 15:30:10,810 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:30:10,945 java.user_receives_ok_status_for_invalid_submission_submission_id() - <html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta charset="utf-8"/>
+    <title>Offline for Maintenance</title>
+    <style media="screen">
+		  html,body,iframe {
+			margin: 0;
+			padding: 0;
+		  }
+		  html,body {
+			height: 100%;
+			overflow: hidden;
+		  }
+		  iframe {
+			width: 100%;
+			height: 100%;
+			border: 0;
+		  }
+		</style>
+  </head>
+  <body>
+    <iframe frameborder="1" scrolling="auto" src="//www.herokucdn.com/error-pages/maintenance-mode.html"/>
+  </body>
+</html>
+[INFO ] 2023-08-01 15:30:10,946 java.user_receives_ok_status_for_invalid_submission_submission_id() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:10,978 java.user_send_get_request_for_the_lms_api_endpoint_with_empty_submission_id() - Delete request for empty submission id
+[INFO ] 2023-08-01 15:30:11,132 java.user_receives_ok_status_for_empty_submission_submission_id() - <html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta charset="utf-8"/>
+    <title>Offline for Maintenance</title>
+    <style media="screen">
+		  html,body,iframe {
+			margin: 0;
+			padding: 0;
+		  }
+		  html,body {
+			height: 100%;
+			overflow: hidden;
+		  }
+		  iframe {
+			width: 100%;
+			height: 100%;
+			border: 0;
+		  }
+		</style>
+  </head>
+  <body>
+    <iframe frameborder="1" scrolling="auto" src="//www.herokucdn.com/error-pages/maintenance-mode.html"/>
+  </body>
+</html>
+[INFO ] 2023-08-01 15:30:11,132 java.user_receives_ok_status_for_empty_submission_submission_id() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:11,156 java.user_send_get_request_for_the_lms_api_endpoint_with_invalid_url_and_valid_submission_id() - Delete request for invalid url and valid submission id
+[INFO ] 2023-08-01 15:30:11,157 java.user_create_get_request_with_invalid_url_and_valid_submission_id_from_and() - SubmissionIdvalue= 0
+[INFO ] 2023-08-01 15:30:11,294 java.user_receives_status_for_invalid_url_valid_submission_id() - <html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta charset="utf-8"/>
+    <title>Offline for Maintenance</title>
+    <style media="screen">
+		  html,body,iframe {
+			margin: 0;
+			padding: 0;
+		  }
+		  html,body {
+			height: 100%;
+			overflow: hidden;
+		  }
+		  iframe {
+			width: 100%;
+			height: 100%;
+			border: 0;
+		  }
+		</style>
+  </head>
+  <body>
+    <iframe frameborder="1" scrolling="auto" src="//www.herokucdn.com/error-pages/maintenance-mode.html"/>
+  </body>
+</html>
+[INFO ] 2023-08-01 15:30:11,294 java.user_receives_status_for_invalid_url_valid_submission_id() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:11,458 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:30:11,604 java.user_creates_delete_request_for_the_lms_api_endpoint_and_valid_user_id() - Request set for user module with valid base URL and valid data
+[INFO ] 2023-08-01 15:30:11,720 java.user_sends_delete_https_request() - Urlhttps://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/users/users/0
+[INFO ] 2023-08-01 15:30:11,721 java.user_sends_delete_https_request() - Response is= <!DOCTYPE html>
+	<html>
+	  <head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta charset="utf-8">
+		<title>Offline for Maintenance</title>
+		<style media="screen">
+		  html,body,iframe {
+			margin: 0;
+			padding: 0;
+		  }
+		  html,body {
+			height: 100%;
+			overflow: hidden;
+		  }
+		  iframe {
+			width: 100%;
+			height: 100%;
+			border: 0;
+		  }
+		</style>
+	  </head>
+	  <body>
+		<iframe src="//www.herokucdn.com/error-pages/maintenance-mode.html"></iframe>
+	  </body>
+	</html>
+[INFO ] 2023-08-01 15:30:11,727 java.user_receives_ok_status_with_message_for_delete_request_with_valid_user_id() - Poststatuscode : 503
+[INFO ] 2023-08-01 15:30:11,759 java.user_creates_delete_request_for_the_lms_api_endpoint_and_invalid() - Request set for user module with valid base URL and valid data
+[INFO ] 2023-08-01 15:30:11,897 java.user_sends_delete_https_request_with_invalid_user_id() - Urlhttps://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/users/users/8912
+[INFO ] 2023-08-01 15:30:11,898 java.user_sends_delete_https_request_with_invalid_user_id() - Response is= <!DOCTYPE html>
+	<html>
+	  <head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta charset="utf-8">
+		<title>Offline for Maintenance</title>
+		<style media="screen">
+		  html,body,iframe {
+			margin: 0;
+			padding: 0;
+		  }
+		  html,body {
+			height: 100%;
+			overflow: hidden;
+		  }
+		  iframe {
+			width: 100%;
+			height: 100%;
+			border: 0;
+		  }
+		</style>
+	  </head>
+	  <body>
+		<iframe src="//www.herokucdn.com/error-pages/maintenance-mode.html"></iframe>
+	  </body>
+	</html>
+[INFO ] 2023-08-01 15:30:11,907 java.user_gets_not_found_status_with_message() - Poststatuscode : 503
+[INFO ] 2023-08-01 15:30:11,945 java.create_new_batch_get_batch_details() - Batch URL for delete existing Batch:http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches
+[INFO ] 2023-08-01 15:30:11,946 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:11,972 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:11,999 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:12,024 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:12,058 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:12,090 java.create_new_batch_get_batch_details() - {"batchName":"Jul23-BugBustersTeam07-SDET-SDET01-508","batchNoOfClasses":"7","batchDescription":"RestAssuredHackathon","batchStatus":"Active","programId":"10689"}
+[INFO ] 2023-08-01 15:30:12,145 java.delete_new_batch_get_batch_details() - Batch URL for delete with valid batchID :http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches/0
+[INFO ] 2023-08-01 15:30:12,258 java.create_new_batch_get_batch_details() - Batch URL for delete existing Batch:http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches
+[INFO ] 2023-08-01 15:30:12,258 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:12,290 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:12,315 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:12,340 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:12,376 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-08-01 15:30:12,407 java.create_new_batch_get_batch_details() - {"batchName":"Jul23-BugBustersTeam07-SDET-SDET01-399","batchNoOfClasses":"7","batchDescription":"RestAssuredHackathon","batchStatus":"Active","programId":"10689"}
+[INFO ] 2023-08-01 15:30:12,469 java.randomestring() - randomestring method
+[INFO ] 2023-08-01 15:30:12,469 java.delete_batch_with_invalid_id() - Batch URL for invalid batchID : http://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms/batches/626
+[INFO ] 2023-08-01 15:30:12,589 java.user_create_delete_request_for_program_module_with_valid_endpoint_and_valid_program_id() - Request set for Program module with valid base URL and valid data
+[INFO ] 2023-08-01 15:30:12,589 java.user_sends_delete_http_request_from_valid_program_id() - GETREQUESTPRINTProgramIDvalue= 0
+[INFO ] 2023-08-01 15:30:12,730 java.user_sucessfully_receives_status_code_with_valid_reponse_body_for_delete_request() - <html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta charset="utf-8"/>
+    <title>Offline for Maintenance</title>
+    <style media="screen">
+		  html,body,iframe {
+			margin: 0;
+			padding: 0;
+		  }
+		  html,body {
+			height: 100%;
+			overflow: hidden;
+		  }
+		  iframe {
+			width: 100%;
+			height: 100%;
+			border: 0;
+		  }
+		</style>
+  </head>
+  <body>
+    <iframe frameborder="1" scrolling="auto" src="//www.herokucdn.com/error-pages/maintenance-mode.html"/>
+  </body>
+</html>
+[INFO ] 2023-08-01 15:30:12,731 java.user_sucessfully_receives_status_code_with_valid_reponse_body_for_delete_request() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:12,768 java.user_able_to_delete_request_for_program_module_with_valid_endpoint_and_valid_program_id() - Request set for Program module with valid base URL and valid data
+[INFO ] 2023-08-01 15:30:12,769 java.user_sends_delete_http_request_data_from_valid_program_id() - GETREQUESTPRINTProgramIDvalue= 0
+[INFO ] 2023-08-01 15:30:12,925 java.user_sucessfully_receives_status_code_with_valid_reponse_body_for_delete() - Delete Request unsuccessful with status code 404
+[INFO ] 2023-08-01 15:30:12,965 java.user_create_delete_request_for_program_module_with_valid_endpoint_and_valid_program_name() - Request set for Program module with valid base URL and valid data
+[INFO ] 2023-08-01 15:30:12,965 java.user_sends_delete_http_request_data_from_valid_program_id_for_from_and() - POSTTestCase Name= Program
+[INFO ] 2023-08-01 15:30:12,966 java.user_sends_delete_http_request_data_from_valid_program_id_for_from_and() - POSTTestCase Name= DELETEBYNAME
+[INFO ] 2023-08-01 15:30:12,966 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-08-01 15:30:13,144 java.user_sucessfully_receives_status_code_with_valid_reponse_for_delete_request() - <html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta charset="utf-8"/>
+    <title>Offline for Maintenance</title>
+    <style media="screen">
+		  html,body,iframe {
+			margin: 0;
+			padding: 0;
+		  }
+		  html,body {
+			height: 100%;
+			overflow: hidden;
+		  }
+		  iframe {
+			width: 100%;
+			height: 100%;
+			border: 0;
+		  }
+		</style>
+  </head>
+  <body>
+    <iframe frameborder="1" scrolling="auto" src="//www.herokucdn.com/error-pages/maintenance-mode.html"/>
+  </body>
+</html>
+[INFO ] 2023-08-01 15:30:13,144 java.user_sucessfully_receives_status_code_with_valid_reponse_for_delete_request() - Response Status is= 503
+[INFO ] 2023-08-01 15:30:13,162 java.user_create_delete_request_for_program_module_with_valid_endpoint_and_invalid_program_name() - Request set for Program module with valid base URL and valid data
+[INFO ] 2023-08-01 15:30:13,163 java.user_sends_delete_http_request_from_and() - POSTTestCase Name= Program
+[INFO ] 2023-08-01 15:30:13,163 java.user_sends_delete_http_request_from_and() - POSTTestCase Name= DELETEBYNAME
+[INFO ] 2023-08-01 15:30:13,163 java.excelValue() - ArrayList excelValuemethod
+[INFO ] 2023-08-01 15:30:13,327 java.user_should_receives_status_code_not_found_request() - delete Request unsuccessful with status code 404

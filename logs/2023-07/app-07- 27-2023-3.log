@@ -1,0 +1,53 @@
+[INFO ] 2023-07-27 02:18:43,260 java.user_sets_request_for_submission_module_with_valid_submission_id_and_valid_request_body() - given put request for valid submission id and request body
+[INFO ] 2023-07-27 02:18:43,275 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:44,057 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:44,152 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:44,236 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:44,314 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:44,393 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:44,469 java.Timestamp() - Timestamp method
+[INFO ] 2023-07-27 02:18:44,472 java.Timestamp() - Timestamp method
+[INFO ] 2023-07-27 02:18:44,475 java.user_sends_post_request_with_data_from_and_with_valid_submission_id() - JSON BODY= {"subPathAttach1":"\/opt\/share\/mayotte_collaborative.stk","subComments":"re-submission completed","updatedgradedBy":"U8252","subDesc":"re-submission","subPathAttach2":"\/opt\/share\/mayotte_collaborative.stk","assignmentId":0,"userId":"0","subPathAttach3":"\/opt\/share\/mayotte_collaborative.stk","gradedDateTime":"2023-07-27T02:18:44.473-04:00","subPathAttach4":"\/opt\/share\/mayotte_collaborative.stk","subDateTime":"2023-07-27T02:18:44.472-04:00","subPathAttach5":"\/opt\/share\/mayotte_collaborative.stk","grade":"-1"}
+[INFO ] 2023-07-27 02:18:45,740 java.request_should_be_successfull_with_status_code_for_put_request_valid_submission_id() - Poststatuscode : 400
+[INFO ] 2023-07-27 02:18:45,796 java.user_sets_request_for_submission_module_with_invalid_submission_id_and_valid_request_body() - given put request for valid submission id and request body
+[INFO ] 2023-07-27 02:18:45,799 java.randomestring() - randomestring method
+[INFO ] 2023-07-27 02:18:45,961 java.request_should_be_successfull_with_status_code_for_put_request_invalid_submission_id() - Poststatuscode : 405
+[INFO ] 2023-07-27 02:18:45,989 java.user_sets_request_for_submission_module_with_valid_submission_id_and_missing_madatory_request_body() - given put request for valid submission id and request body
+[INFO ] 2023-07-27 02:18:45,989 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:46,056 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:46,145 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:46,221 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:46,298 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:46,362 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:46,428 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:46,501 java.Timestamp() - Timestamp method
+[INFO ] 2023-07-27 02:18:46,502 java.user_sends_request_with_data_from_and_with_valid_submission_id_and_missing_mandatory_request_body() - JSON BODY= {"subPathAttach1":"\/opt\/share\/mayotte_collaborative.stk","UpdatesubComments":"re-submission completed","grade":"-1","subPathAttach2":"\/opt\/share\/mayotte_collaborative.stk","subPathAttach3":"\/opt\/share\/mayotte_collaborative.stk","updatesubDesc":"re-submission","subDateTime":"2023-07-27T02:18:46.501-04:00","subPathAttach4":"\/opt\/share\/mayotte_collaborative.stk","subPathAttach5":"\/opt\/share\/mayotte_collaborative.stk"}
+[INFO ] 2023-07-27 02:18:46,694 java.request_should_be_successfull_with_status_code_for_put_request_valid_submission_id_and_missing_mandatory_request_body() - Poststatuscode : 400
+[INFO ] 2023-07-27 02:18:46,736 java.request_should_be_successfull_with_status_code_for_put_request_valid_submission_id_and_missing_mandatory_request_body() - Put Request Successful
+[INFO ] 2023-07-27 02:18:46,759 java.user_sets_request_for_grade_submission_module_with_invalid_submission_id_and_valid_request_body() - given put request for valid submission id and request body
+[INFO ] 2023-07-27 02:18:46,759 java.randomestring() - randomestring method
+[INFO ] 2023-07-27 02:18:46,934 java.request_should_be_successfull_with_status_code_for_grade_submission_invalid_id() - Poststatuscode : 405
+[INFO ] 2023-07-27 02:18:46,954 java.user_sets_request_for_grade_submission_module_with_valid_submission_id_and_missing_madatory_request_body() - given put request for valid submission id and request body
+[INFO ] 2023-07-27 02:18:46,954 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:47,004 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:47,059 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:47,118 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:47,168 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:47,214 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:47,269 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:47,324 java.Timestamp() - Timestamp method
+[INFO ] 2023-07-27 02:18:47,324 java.user_sends_put_request_with_data_from_and_with_valid_submission_id_and_missing_mandatory_request_body_for_grade_update() - JSON BODY= {"subPathAttach1":"\/opt\/share\/mayotte_collaborative.stk","UpdatesubComments":"re-submission completed","subPathAttach2":"\/opt\/share\/mayotte_collaborative.stk","updatedgrade":"5","subPathAttach3":"\/opt\/share\/mayotte_collaborative.stk","updatesubDesc":"re-submission","subDateTime":"2023-07-27T02:18:47.324-04:00","subPathAttach4":"\/opt\/share\/mayotte_collaborative.stk","subPathAttach5":"\/opt\/share\/mayotte_collaborative.stk"}
+[INFO ] 2023-07-27 02:18:47,493 java.request_should_be_successfull_with_status_code_for_put_request_grade_submission_id() - Poststatuscode : 400
+[INFO ] 2023-07-27 02:18:47,494 java.request_should_be_successfull_with_status_code_for_put_request_grade_submission_id() - Put Request Successful
+[INFO ] 2023-07-27 02:18:47,520 java.validate_user_sets_request_for_grade_submission_module_with_valid_submission_id_and_valid_request_body() - given put request for valid submission id and request body
+[INFO ] 2023-07-27 02:18:47,521 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:47,580 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:47,623 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:47,673 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:47,717 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:47,752 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:47,780 java.excelDataValue() - String excelDataValue method
+[INFO ] 2023-07-27 02:18:47,807 java.Timestamp() - Timestamp method
+[INFO ] 2023-07-27 02:18:47,807 java.Timestamp() - Timestamp method
+[INFO ] 2023-07-27 02:18:47,808 java.validate_user_sends_put_request_with_data_from_and_with_valid_submission_id_for_grade_update() - JSON BODY= {"subPathAttach1":"\/opt\/share\/mayotte_collaborative.stk","subComments":"re-submission completed","subDesc":"re-submission","subPathAttach2":"\/opt\/share\/mayotte_collaborative.stk","assignmentId":0,"userId":"0","subPathAttach3":"\/opt\/share\/mayotte_collaborative.stk","gradedDateTime":"2023-07-27T02:18:47.807-04:00","subPathAttach4":"\/opt\/share\/mayotte_collaborative.stk","subDateTime":"2023-07-27T02:18:47.807-04:00","subPathAttach5":"\/opt\/share\/mayotte_collaborative.stk","gradedBy":"U7900","grade":"-1"}
+[INFO ] 2023-07-27 02:18:47,968 java.validate_request_should_be_successfull_with_status_code_for_grade_submission() - Poststatuscode : 400
